@@ -1,0 +1,55 @@
+{
+          "aquarium": {
+                    "poissons": [],
+                    "plantes": [
+                              {
+                                        "nom": "planteCabbage",
+                                        "type": "PLANTE",
+                                        "profondeurMin": 10,
+                                        "profondeurMax": 20,
+                                        "transformation": [
+                                                  [
+                                                            1.0,
+                                                            0.0,
+                                                            0.0
+                                                  ],
+                                                  [
+                                                            0.0,
+                                                            1.0,
+                                                            0.0
+                                                  ],
+                                                  [
+                                                            0.0,
+                                                            0.0,
+                                                            1.0
+                                                  ]
+                                        ],
+                                        "estMaison": true
+                              },
+                              {
+                                        "nom": "plantePiquante",
+                                        "type": "PLANTE",
+                                        "profondeurMin": 0,
+                                        "profondeurMax": 15,
+                                        "transformation": [
+                                                  [
+                                                            1.0,
+                                                            0.0,
+                                                            0.0
+                                                  ],
+                                                  [
+                                                            0.0,
+                                                            1.0,
+                                                            0.0
+                                                  ],
+                                                  [
+                                                            0.0,
+                                                            0.0,
+                                                            1.0
+                                                  ]
+                                        ],
+                                        "estMaison": false
+                              }
+                    ]
+          }
+}

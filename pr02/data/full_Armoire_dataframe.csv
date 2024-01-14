@@ -1,0 +1,2270 @@
+,Name,DIY,Buy_Price,Sell_Price,Color_1,Color_2,Style,type,Balance
+0,A tee,No,560,140,Blue,White,Simple,Top,-420
+1,acid-washed jacket,No,1680,420,Blue,Blue,Simple,Top,-1260
+2,acid-washed jacket,No,1680,420,Black,Black,Simple,Top,-1260
+3,after-school jacket,No,1050,262,Black,Red,Cool,Top,-788
+4,after-school jacket,No,1050,262,Red,Green,Cool,Top,-788
+5,after-school jacket,No,1050,262,Green,Yellow,Cool,Top,-788
+6,after-school jacket,No,1050,262,White,Black,Cool,Top,-788
+7,after-school jacket,No,1050,262,Purple,Blue,Cool,Top,-788
+8,after-school jacket,No,1050,262,Gray,White,Cool,Top,-788
+9,after-school jacket,No,1050,262,Blue,Purple,Cool,Top,-788
+10,animal-print coat,No,2320,580,Blue,Light blue,Cute,Top,-1740
+11,animal-print coat,No,2320,580,Green,Green,Cute,Top,-1740
+12,animal-print coat,No,2320,580,Purple,Purple,Cute,Top,-1740
+13,animal-print coat,No,2320,580,Pink,Pink,Cute,Top,-1740
+14,animal-stripes tee,No,960,240,Yellow,Black,Cool,Top,-720
+15,animal-stripes tee,No,960,240,Gray,Black,Cool,Top,-720
+16,annyeong tee,No,640,160,Light blue,White,Simple,Top,-480
+17,anorak jacket,No,1400,350,Beige,Beige,Simple,Top,-1050
+18,anorak jacket,No,1400,350,Red,Red,Simple,Top,-1050
+19,anorak jacket,No,1400,350,Blue,Blue,Simple,Top,-1050
+20,apron,No,840,210,Orange,White,Simple,Top,-630
+21,apron,No,840,210,Green,White,Simple,Top,-630
+22,apron,No,840,210,Blue,White,Simple,Top,-630
+23,apron,No,840,210,Pink,White,Simple,Top,-630
+24,apron,No,840,210,Light blue,White,Simple,Top,-630
+25,apron,No,840,210,Purple,White,Simple,Top,-630
+26,apron,No,840,210,Gray,White,Simple,Top,-630
+27,apron,No,840,210,Brown,White,Simple,Top,-630
+28,Aran-knit cardigan,No,1300,325,Beige,Beige,Simple,Top,-975
+29,Aran-knit cardigan,No,1300,325,Light blue,Light blue,Simple,Top,-975
+30,Aran-knit cardigan,No,1300,325,Pink,Pink,Simple,Top,-975
+31,Aran-knit cardigan,No,1300,325,Yellow,Yellow,Simple,Top,-975
+32,Aran-knit sweater,No,1200,300,Red,Red,Simple,Top,-900
+33,Aran-knit sweater,No,1200,300,White,White,Simple,Top,-900
+34,Aran-knit sweater,No,1200,300,Gray,Gray,Simple,Top,-900
+35,Aran-knit sweater,No,1200,300,Green,Green,Simple,Top,-900
+36,Aran-knit sweater,No,1200,300,Black,Black,Simple,Top,-900
+37,Aran-knit sweater,No,1200,300,Orange,Orange,Simple,Top,-900
+38,Aran-knit sweater,No,1200,300,Blue,Blue,Simple,Top,-900
+39,argyle sweater,No,1200,300,Green,Red,Simple,Top,-900
+40,argyle sweater,No,1200,300,Gray,Purple,Simple,Top,-900
+41,argyle sweater,No,1200,300,Yellow,White,Simple,Top,-900
+42,argyle sweater,No,1200,300,Black,Blue,Simple,Top,-900
+43,argyle sweater,No,1200,300,Red,Gray,Simple,Top,-900
+44,argyle sweater,No,1200,300,Purple,White,Simple,Top,-900
+45,argyle sweater,No,1200,300,Pink,Orange,Simple,Top,-900
+46,argyle sweater,No,1200,300,White,Green,Simple,Top,-900
+47,argyle vest,No,1440,360,Blue,Light blue,Simple,Top,-1080
+48,argyle vest,No,1440,360,Pink,White,Simple,Top,-1080
+49,argyle vest,No,1440,360,Brown,White,Simple,Top,-1080
+50,argyle vest,No,1440,360,Red,White,Simple,Top,-1080
+51,argyle vest,No,1440,360,Gray,White,Simple,Top,-1080
+52,argyle vest,No,1440,360,Green,White,Simple,Top,-1080
+53,athletic jacket,No,960,240,Red,White,Active,Top,-720
+54,athletic jacket,No,960,240,Green,White,Active,Top,-720
+55,athletic jacket,No,960,240,Black,White,Active,Top,-720
+56,athletic jacket,No,960,240,Blue,White,Active,Top,-720
+57,baggy shirt,No,0,10,Gray,Gray,Simple,Top,10
+58,baggy shirt,No,0,10,Black,Black,Simple,Top,10
+59,baggy shirt,No,0,10,Brown,Brown,Simple,Top,10
+60,baseball shirt,No,1120,280,Blue,White,Active,Top,-840
+61,baseball shirt,No,1120,280,Red,Black,Active,Top,-840
+62,baseball shirt,No,1120,280,Gray,Blue,Active,Top,-840
+63,baseball shirt,No,1120,280,Black,White,Active,Top,-840
+64,baseball shirt,No,1120,280,White,Red,Active,Top,-840
+65,baseball shirt,No,1120,280,Yellow,Black,Active,Top,-840
+66,basketball tank,No,1120,280,Purple,Yellow,Active,Top,-840
+67,basketball tank,No,1120,280,Red,Black,Active,Top,-840
+68,basketball tank,No,1120,280,Green,Orange,Active,Top,-840
+69,basketball tank,No,1120,280,Orange,Blue,Active,Top,-840
+70,basketball tank,No,1120,280,Blue,Red,Active,Top,-840
+71,basketball tank,No,1120,280,Yellow,Green,Active,Top,-840
+72,basketball tank,No,1120,280,Light blue,Blue,Active,Top,-840
+73,basketball tank,No,1120,280,Black,Red,Active,Top,-840
+74,bear tee,No,800,200,Green,Brown,Active,Top,-600
+75,big-star tee,No,560,140,Blue,Yellow,Simple,Top,-420
+76,biker jacket,No,1750,437,Black,Black,Cool,Top,-1313
+77,biker jacket,No,1750,437,Brown,Brown,Cool,Top,-1313
+78,biker jacket,No,1750,437,Beige,Beige,Cool,Top,-1313
+79,biker jacket,No,1750,437,Red,Red,Cool,Top,-1313
+80,biker jacket,No,1750,437,Blue,Blue,Cool,Top,-1313
+81,biker jacket,No,1750,437,Yellow,Yellow,Cool,Top,-1313
+82,blossom tee,No,800,200,Pink,White,Cute,Top,-600
+83,blossom tee,No,800,200,Light blue,White,Cute,Top,-600
+84,blossom tee,No,800,200,Yellow,White,Cute,Top,-600
+85,blossom tee,No,800,200,Green,White,Cute,Top,-600
+86,blossom tee,No,800,200,Purple,White,Cute,Top,-600
+87,boa blouson,No,1680,420,Purple,White,Cute,Top,-1260
+88,boa blouson,No,1680,420,Beige,White,Cute,Top,-1260
+89,boa blouson,No,1680,420,Blue,White,Cute,Top,-1260
+90,boa blouson,No,1680,420,White,White,Cute,Top,-1260
+91,boa fleece,No,1400,350,White,Blue,Active,Top,-1050
+92,boa fleece,No,1400,350,Green,Black,Active,Top,-1050
+93,boa fleece,No,1400,350,Blue,Black,Active,Top,-1050
+94,boa fleece,No,1400,350,Beige,Orange,Active,Top,-1050
+95,boa fleece,No,1400,350,Pink,Blue,Active,Top,-1050
+96,boa fleece,No,1400,350,Yellow,Blue,Active,Top,-1050
+97,boa fleece,No,1400,350,Green,Green,Active,Top,-1050
+98,bold aloha shirt,No,960,240,Blue,Red,Active,Top,-720
+99,bold aloha shirt,No,960,240,Pink,Light blue,Active,Top,-720
+100,bomber-style jacket,No,1440,360,Green,Green,Cool,Top,-1080
+101,bomber-style jacket,No,1440,360,Black,Black,Cool,Top,-1080
+102,bomber-style jacket,No,1440,360,Blue,Blue,Cool,Top,-1080
+103,bomber-style jacket,No,1440,360,Brown,Brown,Cool,Top,-1080
+104,bone tee,No,640,160,Yellow,White,Simple,Top,-480
+105,bonjour tee,No,640,160,White,Red,Simple,Top,-480
+106,botanical tee,No,800,200,Black,Red,Cool,Top,-600
+107,botanical tee,No,800,200,White,Red,Cool,Top,-600
+108,bowling shirt,No,1260,315,Red,Black,Cool,Top,-945
+109,bowling shirt,No,1260,315,Blue,Black,Cool,Top,-945
+110,bowling shirt,No,1260,315,Yellow,Black,Cool,Top,-945
+111,bowling shirt,No,1260,315,Orange,Black,Cool,Top,-945
+112,bowling shirt,No,1260,315,Beige,Black,Cool,Top,-945
+113,bowling shirt,No,1260,315,Green,Black,Cool,Top,-945
+114,bowling shirt,No,1260,315,Light blue,Black,Cool,Top,-945
+115,bowling shirt,No,1260,315,Purple,Black,Cool,Top,-945
+116,bug aloha shirt,No,0,240,Black,Red,Cool,Top,240
+117,bulldog jacket,No,1440,360,Black,White,Cool,Top,-1080
+118,bulldog jacket,No,1440,360,White,Black,Cool,Top,-1080
+119,bulldog jacket,No,1440,360,Red,Black,Cool,Top,-1080
+120,business suitcoat,No,1960,490,Black,Blue,Cool,Top,-1470
+121,business suitcoat,No,1960,490,Gray,Pink,Cool,Top,-1470
+122,business suitcoat,No,1960,490,Light blue,Light blue,Cool,Top,-1470
+123,business suitcoat,No,1960,490,Red,Red,Cool,Top,-1470
+124,business suitcoat,No,1960,490,Blue,Red,Cool,Top,-1470
+125,café uniform,No,1500,375,Black,White,Elegant,Top,-1125
+126,café uniform,No,1500,375,Green,White,Elegant,Top,-1125
+127,café uniform,No,1500,375,Red,White,Elegant,Top,-1125
+128,café uniform,No,1500,375,Brown,White,Elegant,Top,-1125
+129,camo bomber-style jacket,No,1400,350,Green,Beige,Cool,Top,-1050
+130,camo bomber-style jacket,No,1400,350,Gray,Black,Cool,Top,-1050
+131,camo bomber-style jacket,No,1400,350,Purple,Green,Cool,Top,-1050
+132,camo tee,No,960,240,Brown,Beige,Cool,Top,-720
+133,camo tee,No,960,240,Green,Beige,Cool,Top,-720
+134,camo tee,No,960,240,Pink,Brown,Cool,Top,-720
+135,camo tee,No,960,240,Gray,Black,Cool,Top,-720
+136,camo tee,No,960,240,Blue,Blue,Cool,Top,-720
+137,camo tee,No,960,240,Purple,Purple,Cool,Top,-720
+138,camo tee,No,960,240,Red,Beige,Cool,Top,-720
+139,camper tee,No,840,210,Green,Green,Simple,Top,-630
+140,cardigan-shirt combo,No,840,210,Yellow,White,Simple,Top,-630
+141,cardigan-shirt combo,No,840,210,Green,White,Simple,Top,-630
+142,cardigan-shirt combo,No,840,210,Pink,White,Simple,Top,-630
+143,cardigan-shirt combo,No,840,210,Blue,White,Simple,Top,-630
+144,cardigan-shirt combo,No,840,210,Gray,White,Simple,Top,-630
+145,cardigan-shirt combo,No,840,210,Black,White,Simple,Top,-630
+146,career jacket,No,1680,420,Gray,White,Simple,Top,-1260
+147,career jacket,No,1680,420,Beige,White,Simple,Top,-1260
+148,career jacket,No,1680,420,Pink,White,Simple,Top,-1260
+149,career jacket,No,1680,420,Light blue,White,Simple,Top,-1260
+150,career jacket,No,1680,420,Pink,Black,Simple,Top,-1260
+151,career jacket,No,1680,420,Green,Black,Simple,Top,-1260
+152,career jacket,No,1680,420,Blue,Black,Simple,Top,-1260
+153,career jacket,No,1680,420,Red,Black,Simple,Top,-1260
+154,cavalier shirt,No,2080,520,Blue,Yellow,Elegant,Top,-1560
+155,cavalier shirt,No,2080,520,Red,Yellow,Elegant,Top,-1560
+156,cavalier shirt,No,2080,520,Green,Yellow,Elegant,Top,-1560
+157,checkered chesterfield coat,No,2380,595,Brown,Beige,Elegant,Top,-1785
+158,checkered chesterfield coat,No,2380,595,Green,White,Elegant,Top,-1785
+159,checkered chesterfield coat,No,2380,595,Light blue,Black,Elegant,Top,-1785
+160,checkered chesterfield coat,No,2380,595,Gray,Blue,Elegant,Top,-1785
+161,checkered muffler,No,1440,360,White,Blue,Simple,Top,-1080
+162,checkered muffler,No,1440,360,Gray,Brown,Simple,Top,-1080
+163,checkered muffler,No,1440,360,Brown,Yellow,Simple,Top,-1080
+164,checkered muffler,No,1440,360,Beige,Red,Simple,Top,-1080
+165,chef's outfit,No,1680,420,White,Red,Simple,Top,-1260
+166,chef's outfit,No,1680,420,White,Blue,Simple,Top,-1260
+167,chef's outfit,No,1680,420,White,Green,Simple,Top,-1260
+168,chef's outfit,No,1680,420,White,Yellow,Simple,Top,-1260
+169,chef's outfit,No,1680,420,White,Orange,Simple,Top,-1260
+170,chef's outfit,No,1680,420,White,Brown,Simple,Top,-1260
+171,chef's outfit,No,1680,420,White,Black,Simple,Top,-1260
+172,chesterfield coat,No,2320,580,Beige,Black,Cool,Top,-1740
+173,chesterfield coat,No,2320,580,Brown,Red,Cool,Top,-1740
+174,chesterfield coat,No,2320,580,Black,Gray,Cool,Top,-1740
+175,chesterfield coat,No,2320,580,Gray,Green,Cool,Top,-1740
+176,chick tee,No,800,200,White,Light blue,Simple,Top,-600
+177,Chimayo vest,No,1120,280,Blue,Red,Elegant,Top,-840
+178,Chimayo vest,No,1120,280,Red,Green,Elegant,Top,-840
+179,Chimayo vest,No,1120,280,White,Blue,Elegant,Top,-840
+180,Chimayo vest,No,1120,280,Light blue,Gray,Elegant,Top,-840
+181,ciao tee,No,640,160,Red,White,Simple,Top,-480
+182,coatigan,No,2380,595,Purple,White,Elegant,Top,-1785
+183,coatigan,No,2380,595,Pink,White,Elegant,Top,-1785
+184,coatigan,No,2380,595,Light blue,White,Elegant,Top,-1785
+185,coatigan,No,2380,595,Gray,White,Elegant,Top,-1785
+186,coatigan,No,2380,595,Green,White,Elegant,Top,-1785
+187,collarless coat,No,2000,500,Gray,Black,Simple,Top,-1500
+188,collarless coat,No,2000,500,Beige,Black,Simple,Top,-1500
+189,collarless coat,No,2000,500,Pink,Black,Simple,Top,-1500
+190,collarless shirt,No,960,240,Black,Black,Simple,Top,-720
+191,collarless shirt,No,960,240,White,White,Simple,Top,-720
+192,college cardigan,No,1200,300,Blue,Yellow,Simple,Top,-900
+193,college cardigan,No,1200,300,Red,Orange,Simple,Top,-900
+194,college cardigan,No,1200,300,Gray,Blue,Simple,Top,-900
+195,college cardigan,No,1200,300,Orange,Blue,Simple,Top,-900
+196,college cardigan,No,1200,300,White,Yellow,Simple,Top,-900
+197,color-block dress shirt,No,960,240,Light blue,Blue,Simple,Top,-720
+198,color-block dress shirt,No,960,240,Red,Brown,Simple,Top,-720
+199,color-block dress shirt,No,960,240,Green,Green,Simple,Top,-720
+200,color-block dress shirt,No,960,240,Pink,Purple,Simple,Top,-720
+201,color-block dress shirt,No,960,240,Yellow,Green,Simple,Top,-720
+202,color-block dress shirt,No,960,240,Gray,Black,Simple,Top,-720
+203,colorful striped sweater,No,1200,300,Blue,Red,Elegant,Top,-900
+204,colorful striped sweater,No,1200,300,White,Blue,Elegant,Top,-900
+205,colorful striped sweater,No,1200,300,White,Red,Elegant,Top,-900
+206,colorful striped sweater,No,1200,300,Pink,Black,Elegant,Top,-900
+207,colorful striped sweater,No,1200,300,Brown,Black,Elegant,Top,-900
+208,colorful striped sweater,No,1200,300,Gray,Light blue,Elegant,Top,-900
+209,comedian's outfit,No,2500,625,Orange,Green,Gorgeous,Top,-1875
+210,comedian's outfit,No,2500,625,Blue,Purple,Gorgeous,Top,-1875
+211,comedian's outfit,No,2500,625,Red,Orange,Gorgeous,Top,-1875
+212,comedian's outfit,No,2500,625,Yellow,Green,Gorgeous,Top,-1875
+213,comedian's outfit,No,2500,625,Green,Light blue,Gorgeous,Top,-1875
+214,comedian's outfit,No,2500,625,Purple,Red,Gorgeous,Top,-1875
+215,comedian's outfit,No,2500,625,Green,Blue,Gorgeous,Top,-1875
+216,comedian's outfit,No,2500,625,White,Green,Gorgeous,Top,-1875
+217,Coral Nook Inc. aloha shirt,No,0,3000,Pink,White,Simple,Top,3000
+218,coverall coat,No,1120,280,Green,Orange,Simple,Top,-840
+219,coverall coat,No,1120,280,Blue,Beige,Simple,Top,-840
+220,coverall coat,No,1120,280,Beige,Brown,Simple,Top,-840
+221,coverall coat,No,1120,280,Red,Brown,Simple,Top,-840
+222,cowboy shirt,No,2100,525,Beige,Blue,Simple,Top,-1575
+223,cowboy shirt,No,2100,525,Red,Brown,Simple,Top,-1575
+224,cowboy shirt,No,2100,525,Blue,Black,Simple,Top,-1575
+225,cowboy shirt,No,2100,525,Light blue,Green,Simple,Top,-1575
+226,cowboy shirt,No,2100,525,Orange,Brown,Simple,Top,-1575
+227,cycling shirt,No,1200,300,White,Blue,Active,Top,-900
+228,cycling shirt,No,1200,300,Blue,Black,Active,Top,-900
+229,cycling shirt,No,1200,300,Red,Black,Active,Top,-900
+230,cycling shirt,No,1200,300,Black,Yellow,Active,Top,-900
+231,cycling shirt,No,1200,300,Green,Red,Active,Top,-900
+232,cycling shirt,No,1200,300,Orange,Gray,Active,Top,-900
+233,cycling shirt,No,1200,300,Light blue,Purple,Active,Top,-900
+234,cycling shirt,No,1200,300,Pink,Purple,Active,Top,-900
+235,DAL apron,No,0,1010,Blue,White,Simple,Top,1010
+236,DAL pilot jacket,No,0,1010,Green,Green,Cool,Top,1010
+237,DAL tee,No,0,1010,Blue,White,Simple,Top,1010
+238,dance-team jacket,No,1680,420,Black,Yellow,Active,Top,-1260
+239,dance-team jacket,No,1680,420,White,Yellow,Active,Top,-1260
+240,dance-team jacket,No,1680,420,Purple,Yellow,Active,Top,-1260
+241,dance-team jacket,No,1680,420,Red,Yellow,Active,Top,-1260
+242,danger tank,No,640,160,Yellow,Black,Active,Top,-480
+243,denim jacket,No,1400,350,Blue,Blue,Simple,Top,-1050
+244,denim jacket,No,1400,350,Light blue,Light blue,Simple,Top,-1050
+245,denim jacket,No,1400,350,Black,Black,Simple,Top,-1050
+246,denim jacket,No,1400,350,White,White,Simple,Top,-1050
+247,denim vest,No,1120,280,Light blue,White,Active,Top,-840
+248,denim vest,No,1120,280,Blue,White,Active,Top,-840
+249,denim vest,No,1120,280,Black,White,Active,Top,-840
+250,denim vest,No,1120,280,White,White,Active,Top,-840
+251,detective's coat,No,2500,625,Brown,Brown,Elegant,Top,-1875
+252,detective's coat,No,2500,625,Gray,Gray,Elegant,Top,-1875
+253,detective's coat,No,2500,625,Beige,Beige,Elegant,Top,-1875
+254,diner apron,No,840,210,Pink,White,Active,Top,-630
+255,diner apron,No,840,210,Red,White,Active,Top,-630
+256,diner apron,No,840,210,Blue,White,Active,Top,-630
+257,diner apron,No,840,210,Yellow,White,Active,Top,-630
+258,diner apron,No,840,210,Green,White,Active,Top,-630
+259,diner apron,No,840,210,Beige,White,Active,Top,-630
+260,diner apron,No,840,210,Black,White,Active,Top,-630
+261,doctor's coat,No,2160,540,White,Red,Simple,Top,-1620
+262,doctor's coat,No,2160,540,White,Black,Simple,Top,-1620
+263,dolly shirt,No,960,240,Pink,Pink,Cute,Top,-720
+264,dolly shirt,No,960,240,Light blue,Blue,Cute,Top,-720
+265,dolly shirt,No,960,240,Yellow,Orange,Cute,Top,-720
+266,dolly shirt,No,960,240,Purple,Pink,Cute,Top,-720
+267,dotted raincoat,No,1600,400,Light blue,Pink,Cute,Top,-1200
+268,dotted raincoat,No,1600,400,Pink,Orange,Cute,Top,-1200
+269,dotted raincoat,No,1600,400,Green,Yellow,Cute,Top,-1200
+270,dotted raincoat,No,1600,400,Blue,Green,Cute,Top,-1200
+271,dotted raincoat,No,1600,400,Light blue,Yellow,Cute,Top,-1200
+272,dotted raincoat,No,1600,400,Gray,Yellow,Cute,Top,-1200
+273,doublet,No,1520,380,Black,White,Simple,Top,-1140
+274,doublet,No,1520,380,Blue,White,Simple,Top,-1140
+275,doublet,No,1520,380,Green,White,Simple,Top,-1140
+276,doublet,No,1520,380,Red,White,Simple,Top,-1140
+277,down jacket,No,1120,280,Blue,Blue,Active,Top,-840
+278,down jacket,No,1120,280,Black,Black,Active,Top,-840
+279,down jacket,No,1120,280,Red,Red,Active,Top,-840
+280,down jacket,No,1120,280,White,White,Active,Top,-840
+281,down jacket,No,1120,280,Green,Green,Active,Top,-840
+282,down jacket,No,1120,280,Yellow,Yellow,Active,Top,-840
+283,down jacket,No,1120,280,Orange,Orange,Active,Top,-840
+284,down ski jacket,No,1680,420,Red,Yellow,Active,Top,-1260
+285,down ski jacket,No,1680,420,Blue,Green,Active,Top,-1260
+286,down ski jacket,No,1680,420,Blue,Light blue,Active,Top,-1260
+287,down ski jacket,No,1680,420,Blue,Red,Active,Top,-1260
+288,dragon jacket,No,2000,500,Black,Yellow,Active,Top,-1500
+289,dreamy sweater,No,1440,360,Pink,Light blue,Cute,Top,-1080
+290,dreamy sweater,No,1440,360,Blue,Purple,Cute,Top,-1080
+291,dress shirt,No,560,140,White,White,Simple,Top,-420
+292,dress shirt,No,560,140,Gray,Gray,Simple,Top,-420
+293,dress shirt,No,560,140,Green,Green,Simple,Top,-420
+294,dress shirt,No,560,140,Pink,Pink,Simple,Top,-420
+295,dress shirt,No,560,140,Blue,Blue,Simple,Top,-420
+296,earbuds combo,No,1400,350,Brown,Black,Cool,Top,-1050
+297,earbuds combo,No,1400,350,Green,Black,Cool,Top,-1050
+298,earbuds combo,No,1400,350,Blue,Black,Cool,Top,-1050
+299,earbuds combo,No,1400,350,Yellow,Black,Cool,Top,-1050
+300,eight-ball tee,No,560,140,Black,White,Active,Top,-420
+301,emblem blazer,No,1960,490,Green,Red,Elegant,Top,-1470
+302,emblem blazer,No,1960,490,Blue,Blue,Elegant,Top,-1470
+303,emblem blazer,No,1960,490,Brown,Green,Elegant,Top,-1470
+304,emblem blazer,No,1960,490,Red,Pink,Elegant,Top,-1470
+305,embroidered tank,No,960,240,Red,White,Cute,Top,-720
+306,embroidered tank,No,960,240,Purple,White,Cute,Top,-720
+307,embroidered tank,No,960,240,Blue,White,Cute,Top,-720
+308,embroidered tank,No,960,240,Pink,White,Cute,Top,-720
+309,embroidered tank,No,960,240,Green,White,Cute,Top,-720
+310,embroidered tank,No,960,240,Orange,White,Cute,Top,-720
+311,energetic sweater,No,960,240,Yellow,Light blue,Simple,Top,-720
+312,energetic sweater,No,960,240,Light blue,Pink,Simple,Top,-720
+313,energetic sweater,No,960,240,Purple,Green,Simple,Top,-720
+314,energetic sweater,No,960,240,Pink,Yellow,Simple,Top,-720
+315,explorer shirt,No,1120,280,Beige,Orange,Active,Top,-840
+316,explorer shirt,No,1120,280,Green,Red,Active,Top,-840
+317,explorer shirt,No,1120,280,Gray,Green,Active,Top,-840
+318,explorer shirt,No,1120,280,Blue,Yellow,Active,Top,-840
+319,faux-hair sweater,No,1200,300,Red,Black,Cool,Top,-900
+320,faux-hair sweater,No,1200,300,White,Black,Cool,Top,-900
+321,faux-shearling coat,No,1680,420,Beige,White,Elegant,Top,-1260
+322,faux-shearling coat,No,1680,420,Pink,White,Elegant,Top,-1260
+323,faux-shearling coat,No,1680,420,Green,White,Elegant,Top,-1260
+324,faux-shearling coat,No,1680,420,Black,White,Elegant,Top,-1260
+325,faux-shearling coat,No,1680,420,Gray,White,Elegant,Top,-1260
+326,fischerhemd,No,1800,450,Blue,Red,Simple,Top,-1350
+327,fish-print tee,No,0,160,Beige,Yellow,Simple,Top,160
+328,fishing vest,No,1440,360,Red,White,Active,Top,-1080
+329,fishing vest,No,1440,360,Blue,White,Active,Top,-1080
+330,fishing vest,No,1440,360,Orange,White,Active,Top,-1080
+331,fishing vest,No,1440,360,Purple,White,Active,Top,-1080
+332,fishing vest,No,1440,360,Black,White,Active,Top,-1080
+333,fishing vest,No,1440,360,Pink,White,Active,Top,-1080
+334,fishing vest,No,1440,360,Green,White,Active,Top,-1080
+335,fitness tank,No,800,200,Green,Black,Active,Top,-600
+336,fitness tank,No,800,200,Pink,Black,Active,Top,-600
+337,fitness tank,No,800,200,Light blue,Black,Active,Top,-600
+338,fitness tank,No,800,200,Orange,Black,Active,Top,-600
+339,fitness tank,No,800,200,Black,Black,Active,Top,-600
+340,fitness tank,No,800,200,Yellow,Black,Active,Top,-600
+341,fitness tank,No,800,200,Red,Black,Active,Top,-600
+342,fitness tank,No,800,200,Purple,Black,Active,Top,-600
+343,five-ball tee,No,560,140,Orange,White,Active,Top,-420
+344,flame tee,No,800,200,Red,Black,Active,Top,-600
+345,flannel shirt,No,1200,300,Red,Black,Simple,Top,-900
+346,flannel shirt,No,1200,300,Green,Black,Simple,Top,-900
+347,flannel shirt,No,1200,300,Blue,Black,Simple,Top,-900
+348,flannel shirt,No,1200,300,Beige,Black,Simple,Top,-900
+349,flannel shirt,No,1200,300,Purple,Black,Simple,Top,-900
+350,flashy cardigan,No,1200,300,Red,Colorful,Gorgeous,Top,-900
+351,flashy cardigan,No,1200,300,Blue,Colorful,Gorgeous,Top,-900
+352,flashy jacket,No,1960,490,White,Red,Gorgeous,Top,-1470
+353,flashy jacket,No,1960,490,Black,Yellow,Gorgeous,Top,-1470
+354,flashy jacket,No,1960,490,Purple,Blue,Gorgeous,Top,-1470
+355,flashy jacket,No,1960,490,Red,Black,Gorgeous,Top,-1470
+356,flashy jacket,No,1960,490,Green,Green,Gorgeous,Top,-1470
+357,flashy jacket,No,1960,490,Yellow,Purple,Gorgeous,Top,-1470
+358,flight jacket,No,1680,420,Brown,Beige,Cool,Top,-1260
+359,flight jacket,No,1680,420,Black,Gray,Cool,Top,-1260
+360,flight jacket,No,1680,420,Green,Orange,Cool,Top,-1260
+361,flower sweater,No,1200,300,Red,White,Cute,Top,-900
+362,flower sweater,No,1200,300,Green,Orange,Cute,Top,-900
+363,flower sweater,No,1200,300,White,Red,Cute,Top,-900
+364,flower sweater,No,1200,300,Yellow,Red,Cute,Top,-900
+365,folk shirt,No,1300,325,Red,Beige,Simple,Top,-975
+366,folk shirt,No,1300,325,Brown,Yellow,Simple,Top,-975
+367,folk shirt,No,1300,325,Light blue,Gray,Simple,Top,-975
+368,football shirt,No,1120,280,Green,White,Active,Top,-840
+369,football shirt,No,1120,280,White,Black,Active,Top,-840
+370,football shirt,No,1120,280,Yellow,Black,Active,Top,-840
+371,football shirt,No,1120,280,Red,White,Active,Top,-840
+372,football shirt,No,1120,280,Blue,White,Active,Top,-840
+373,football shirt,No,1120,280,Green,Black,Active,Top,-840
+374,football shirt,No,1120,280,Orange,Black,Active,Top,-840
+375,football shirt,No,1120,280,Black,White,Active,Top,-840
+376,four-ball tee,No,560,140,Purple,White,Active,Top,-420
+377,frog tee,No,640,160,Beige,Green,Active,Top,-480
+378,front-tie button-down shirt,No,800,200,Blue,Blue,Active,Top,-600
+379,front-tie button-down shirt,No,800,200,Pink,Pink,Active,Top,-600
+380,front-tie button-down shirt,No,800,200,Yellow,Yellow,Active,Top,-600
+381,front-tie button-down shirt,No,800,200,Gray,Gray,Active,Top,-600
+382,front-tie tee,No,640,160,Black,Black,Active,Top,-480
+383,front-tie tee,No,640,160,White,White,Active,Top,-480
+384,front-tie tee,No,640,160,Red,Red,Active,Top,-480
+385,front-tie tee,No,640,160,Yellow,Yellow,Active,Top,-480
+386,fuzzy vest,No,1300,325,Blue,Blue,Simple,Top,-975
+387,fuzzy vest,No,1300,325,Beige,Beige,Simple,Top,-975
+388,fuzzy vest,No,1300,325,Brown,Brown,Simple,Top,-975
+389,fuzzy vest,No,1300,325,Green,Green,Simple,Top,-975
+390,fuzzy vest,No,1300,325,Red,Gray,Simple,Top,-975
+391,garden tank,No,1120,280,Pink,Pink,Cute,Top,-840
+392,garden tank,No,1120,280,Blue,Purple,Cute,Top,-840
+393,garden tank,No,1120,280,Orange,Orange,Cute,Top,-840
+394,garden tank,No,1120,280,Green,Green,Cute,Top,-840
+395,gilet and shirt,No,1120,280,Black,White,Cool,Top,-840
+396,gilet and shirt,No,1120,280,Blue,White,Cool,Top,-840
+397,gilet and shirt,No,1120,280,Red,Black,Cool,Top,-840
+398,gilet and shirt,No,1120,280,Gray,Black,Cool,Top,-840
+399,gingham picnic shirt,No,960,240,Red,White,Simple,Top,-720
+400,gingham picnic shirt,No,960,240,Green,White,Simple,Top,-720
+401,gingham picnic shirt,No,960,240,Blue,White,Simple,Top,-720
+402,gingham picnic shirt,No,960,240,Black,White,Simple,Top,-720
+403,gingham picnic shirt,No,960,240,Orange,White,Simple,Top,-720
+404,gingham picnic shirt,No,960,240,Pink,White,Simple,Top,-720
+405,gingham picnic shirt,No,960,240,Purple,White,Simple,Top,-720
+406,gingham picnic shirt,No,960,240,Light blue,White,Simple,Top,-720
+407,gold-print tee,No,1120,280,Black,Yellow,Cool,Top,-840
+408,gold-print tee,No,1120,280,White,Yellow,Cool,Top,-840
+409,gown coat,No,2000,500,Brown,Brown,Elegant,Top,-1500
+410,gown coat,No,2000,500,Black,Black,Elegant,Top,-1500
+411,gown coat,No,2000,500,Light blue,Blue,Elegant,Top,-1500
+412,gown coat,No,2000,500,Red,Brown,Elegant,Top,-1500
+413,graduation gown,No,3360,840,Black,Red,Simple,Top,-2520
+414,graduation gown,No,3360,840,Black,Green,Simple,Top,-2520
+415,graduation gown,No,3360,840,Black,Blue,Simple,Top,-2520
+416,graduation gown,No,3360,840,Black,Yellow,Simple,Top,-2520
+417,Green Nook Inc. aloha shirt,No,0,3000,Green,White,Simple,Top,3000
+418,groovy shirt,No,1440,360,Orange,Orange,Cool,Top,-1080
+419,groovy shirt,No,1440,360,Green,Green,Cool,Top,-1080
+420,groovy shirt,No,1440,360,Red,Red,Cool,Top,-1080
+421,groovy tunic,No,1680,420,Orange,Beige,Active,Top,-1260
+422,groovy tunic,No,1680,420,Brown,Blue,Active,Top,-1260
+423,groovy tunic,No,1680,420,Beige,Pink,Active,Top,-1260
+424,guayabera shirt,No,1120,280,Green,Green,Cool,Top,-840
+425,guayabera shirt,No,1120,280,Red,Red,Cool,Top,-840
+426,guayabera shirt,No,1120,280,Brown,Brown,Cool,Top,-840
+427,guayabera shirt,No,1120,280,Blue,Blue,Cool,Top,-840
+428,guide shirt,No,800,200,White,Green,Simple,Top,-600
+429,guide shirt,No,800,200,White,Red,Simple,Top,-600
+430,guide shirt,No,800,200,White,Yellow,Simple,Top,-600
+431,gym tee,No,640,160,White,Red,Active,Top,-480
+432,gym tee,No,640,160,White,Blue,Active,Top,-480
+433,gym tee,No,640,160,White,Green,Active,Top,-480
+434,gym tee,No,640,160,White,Black,Active,Top,-480
+435,hallo tee,No,640,160,Black,Orange,Simple,Top,-480
+436,hand-knit tank,No,840,210,Orange,Orange,Elegant,Top,-630
+437,hand-knit tank,No,840,210,White,White,Elegant,Top,-630
+438,hand-knit tank,No,840,210,Black,Black,Elegant,Top,-630
+439,hand-knit tank,No,840,210,Blue,Blue,Elegant,Top,-630
+440,hand-knit tank,No,840,210,Green,Green,Elegant,Top,-630
+441,hand-knit tank,No,840,210,Red,Red,Elegant,Top,-630
+442,handmade cape,No,500,125,Red,Light blue,Active,Top,-375
+443,hanten jacket,No,1120,280,Blue,Beige,Simple,Top,-840
+444,hanten jacket,No,1120,280,Green,Beige,Simple,Top,-840
+445,hanten jacket,No,1120,280,Brown,Beige,Simple,Top,-840
+446,hanten jacket,No,1120,280,Purple,Beige,Simple,Top,-840
+447,happi tee,No,960,240,Blue,White,Active,Top,-720
+448,happi tee,No,960,240,Red,White,Active,Top,-720
+449,happi tee,No,960,240,Gray,White,Active,Top,-720
+450,happi tee,No,960,240,Green,White,Active,Top,-720
+451,happi tee,No,960,240,Purple,White,Active,Top,-720
+452,hawk jacket,No,1750,437,Red,White,Active,Top,-1313
+453,heart apron,No,1000,250,Pink,White,Cute,Top,-750
+454,heart apron,No,1000,250,Light blue,White,Cute,Top,-750
+455,heart apron,No,1000,250,Red,White,Cute,Top,-750
+456,heart apron,No,1000,250,Purple,White,Cute,Top,-750
+457,heart apron,No,1000,250,Green,White,Cute,Top,-750
+458,heart sweater,No,1000,250,Pink,Red,Cute,Top,-750
+459,heart sweater,No,1000,250,Red,White,Cute,Top,-750
+460,heavy-duty shirt,No,1000,250,Orange,Orange,Active,Top,-750
+461,heavy-duty shirt,No,1000,250,Green,Green,Active,Top,-750
+462,heavy-duty shirt,No,1000,250,Blue,Blue,Active,Top,-750
+463,heavy-duty shirt,No,1000,250,Red,Red,Active,Top,-750
+464,hello tee,No,640,160,Black,White,Simple,Top,-480
+465,henley shirt,No,960,240,Green,Green,Simple,Top,-720
+466,henley shirt,No,960,240,Yellow,Yellow,Simple,Top,-720
+467,henley shirt,No,960,240,Light blue,Light blue,Simple,Top,-720
+468,henley shirt,No,960,240,Purple,Purple,Simple,Top,-720
+469,hi tee,No,640,160,Beige,Brown,Simple,Top,-480
+470,hip-wrap shirt,No,1200,300,White,Yellow,Simple,Top,-900
+471,hip-wrap shirt,No,1200,300,Gray,Blue,Simple,Top,-900
+472,hip-wrap shirt,No,1200,300,Black,Red,Simple,Top,-900
+473,hoi tee,No,640,160,Blue,Yellow,Simple,Top,-480
+474,hola tee,No,560,140,Yellow,Orange,Simple,Top,-420
+475,holiday sweater,No,1800,450,Green,Red,Cute,Top,-1350
+476,holiday sweater,No,1800,450,Red,Beige,Cute,Top,-1350
+477,holiday sweater,No,1800,450,Blue,White,Cute,Top,-1350
+478,hula top,No,1200,300,Red,White,Active,Top,-900
+479,hula top,No,1200,300,Orange,Pink,Active,Top,-900
+480,hula top,No,1200,300,Beige,Red,Active,Top,-900
+481,hula top,No,1200,300,Purple,White,Active,Top,-900
+482,hula top,No,1200,300,Green,White,Active,Top,-900
+483,humble sweater,No,1150,287,Purple,Black,Simple,Top,-863
+484,humble sweater,No,1150,287,Beige,Black,Simple,Top,-863
+485,humble sweater,No,1150,287,Green,Black,Simple,Top,-863
+486,humble sweater,No,1150,287,Blue,Black,Simple,Top,-863
+487,kanji tee,No,640,160,Green,Green,Active,Top,-480
+488,kanji tee,No,640,160,Pink,Pink,Active,Top,-480
+489,kanji tee,No,640,160,Blue,Blue,Active,Top,-480
+490,kanji tee,No,640,160,White,Black,Active,Top,-480
+491,kids' smock,No,1500,375,Light blue,Red,Cute,Top,-1125
+492,kids' smock,No,1500,375,Light blue,Yellow,Cute,Top,-1125
+493,kids' smock,No,1500,375,Light blue,Pink,Cute,Top,-1125
+494,kids' smock,No,1500,375,Light blue,Green,Cute,Top,-1125
+495,konnichiwa tee,No,640,160,Green,Green,Simple,Top,-480
+496,kung-fu tee,No,1800,450,Blue,Blue,Active,Top,-1350
+497,kung-fu tee,No,1800,450,White,Gray,Active,Top,-1350
+498,kung-fu tee,No,1800,450,Light blue,White,Active,Top,-1350
+499,kung-fu tee,No,1800,450,Yellow,White,Active,Top,-1350
+500,kung-fu tee,No,1800,450,Green,White,Active,Top,-1350
+501,kurta,No,1200,300,Green,Green,Simple,Top,-900
+502,kurta,No,1200,300,Gray,Gray,Simple,Top,-900
+503,kurta,No,1200,300,Light blue,Light blue,Simple,Top,-900
+504,kurta,No,1200,300,Beige,Beige,Simple,Top,-900
+505,Labelle coat,No,3900,975,Purple,Black,Gorgeous,Top,-2925
+506,Labelle coat,No,3900,975,Black,Black,Gorgeous,Top,-2925
+507,Labelle coat,No,3900,975,Red,Black,Gorgeous,Top,-2925
+508,Labelle coat,No,3900,975,Blue,Black,Gorgeous,Top,-2925
+509,Labelle coat,No,3900,975,Yellow,Black,Gorgeous,Top,-2925
+510,Labelle coat,No,3900,975,Pink,Black,Gorgeous,Top,-2925
+511,Labelle knit shirt,No,2270,567,Purple,Purple,Cool,Top,-1703
+512,Labelle knit shirt,No,2270,567,Black,Black,Cool,Top,-1703
+513,Labelle knit shirt,No,2270,567,Red,Red,Cool,Top,-1703
+514,Labelle knit shirt,No,2270,567,Blue,Blue,Cool,Top,-1703
+515,Labelle knit shirt,No,2270,567,Yellow,Yellow,Cool,Top,-1703
+516,Labelle knit shirt,No,2270,567,Pink,Pink,Cool,Top,-1703
+517,lacy shirt,No,850,212,Black,Black,Elegant,Top,-638
+518,lacy shirt,No,850,212,Beige,Beige,Elegant,Top,-638
+519,lacy tank,No,850,212,White,White,Cute,Top,-638
+520,lacy tank,No,850,212,Pink,Pink,Cute,Top,-638
+521,lacy tank,No,850,212,Yellow,Yellow,Cute,Top,-638
+522,lacy tank,No,850,212,Green,Green,Cute,Top,-638
+523,lacy tank,No,850,212,Purple,Purple,Cute,Top,-638
+524,layered shirt,No,800,200,Blue,Black,Simple,Top,-600
+525,layered shirt,No,800,200,White,Black,Simple,Top,-600
+526,layered shirt,No,800,200,Green,White,Simple,Top,-600
+527,layered shirt,No,800,200,Orange,White,Simple,Top,-600
+528,layered tank,No,800,200,Yellow,Yellow,Cute,Top,-600
+529,layered tank,No,800,200,Pink,Pink,Cute,Top,-600
+530,layered tank,No,800,200,Orange,Orange,Cute,Top,-600
+531,layered tank,No,800,200,Blue,Blue,Cute,Top,-600
+532,layered tank,No,800,200,Green,Green,Cute,Top,-600
+533,layered tank,No,800,200,Light blue,Light blue,Cute,Top,-600
+534,layered tank,No,800,200,Red,Red,Cute,Top,-600
+535,layered tank,No,800,200,Purple,Purple,Cute,Top,-600
+536,leopard tee,No,800,200,Yellow,Black,Cool,Top,-600
+537,leopard tee,No,800,200,Pink,Black,Cool,Top,-600
+538,leopard tee,No,800,200,Green,Black,Cool,Top,-600
+539,leopard tee,No,800,200,Gray,Black,Cool,Top,-600
+540,letter jacket,No,1080,270,Blue,White,Active,Top,-810
+541,letter jacket,No,1080,270,Red,White,Active,Top,-810
+542,letter jacket,No,1080,270,Green,White,Active,Top,-810
+543,letter jacket,No,1080,270,Beige,White,Active,Top,-810
+544,madras plaid shirt,No,1120,280,Green,Orange,Active,Top,-840
+545,madras plaid shirt,No,1120,280,Blue,Orange,Active,Top,-840
+546,madras plaid shirt,No,1120,280,Red,Green,Active,Top,-840
+547,madras plaid shirt,No,1120,280,Purple,Yellow,Active,Top,-840
+548,madras plaid shirt,No,1120,280,Pink,Light blue,Active,Top,-840
+549,madras plaid shirt,No,1120,280,Gray,Orange,Active,Top,-840
+550,marble-dots tee,No,640,160,Black,Colorful,Active,Top,-480
+551,marble-dots tee,No,640,160,White,Colorful,Active,Top,-480
+552,meme shirt,No,960,240,Purple,Green,Cool,Top,-720
+553,meme shirt,No,960,240,Blue,Green,Cool,Top,-720
+554,meme shirt,No,960,240,Green,Black,Cool,Top,-720
+555,meme shirt,No,960,240,Red,Pink,Cool,Top,-720
+556,military uniform,No,3360,840,Red,Black,Elegant,Top,-2520
+557,military uniform,No,3360,840,Blue,Black,Elegant,Top,-2520
+558,military uniform,No,3360,840,Green,Black,Elegant,Top,-2520
+559,military uniform,No,3360,840,White,Black,Elegant,Top,-2520
+560,misty tee,No,640,160,Green,Yellow,Elegant,Top,-480
+561,mod parka,No,1680,420,Green,Green,Simple,Top,-1260
+562,mod parka,No,1680,420,Brown,Brown,Simple,Top,-1260
+563,Mom's hand-knit sweater,No,0,88,Orange,Light blue,Cute,Top,88
+564,Mom's hand-knit sweater,No,0,88,Beige,Colorful,Cute,Top,88
+565,Mom's hand-knit sweater,No,0,88,Green,Colorful,Cute,Top,88
+566,Mom's hand-knit sweater,No,0,88,Yellow,Green,Cute,Top,88
+567,Mom's hand-knit sweater,No,0,88,Blue,Brown,Cute,Top,88
+568,Mom's hand-knit sweater,No,0,88,Blue,Beige,Cute,Top,88
+569,Mom's hand-knit sweater,No,0,88,Red,Colorful,Cute,Top,88
+570,Mom's hand-knit sweater,No,0,88,Pink,Yellow,Cute,Top,88
+571,Mom's handmade apron,No,0,88,Orange,Yellow,Cute,Top,88
+572,Mom's handmade apron,No,0,88,Gray,White,Cute,Top,88
+573,Mom's handmade apron,No,0,88,Green,White,Cute,Top,88
+574,Mom's handmade apron,No,0,88,Colorful,White,Cute,Top,88
+575,Mom's handmade apron,No,0,88,Pink,White,Cute,Top,88
+576,Mom's handmade apron,No,0,88,Blue,Gray,Cute,Top,88
+577,Mom's handmade apron,No,0,88,Blue,White,Cute,Top,88
+578,morning coat,No,2500,625,Black,Gray,Elegant,Top,-1875
+579,mountain parka,No,1400,350,Red,Red,Active,Top,-1050
+580,mountain parka,No,1400,350,Blue,Blue,Active,Top,-1050
+581,mountain parka,No,1400,350,Green,Green,Active,Top,-1050
+582,mountain parka,No,1400,350,Black,Black,Active,Top,-1050
+583,multipurpose vest,No,1680,420,Beige,Gray,Simple,Top,-1260
+584,multipurpose vest,No,1680,420,Gray,Light blue,Simple,Top,-1260
+585,multipurpose vest,No,1680,420,Green,Beige,Simple,Top,-1260
+586,muscle tank,No,640,160,Gray,Yellow,Active,Top,-480
+587,muscle tank,No,640,160,Yellow,Black,Active,Top,-480
+588,muscle tank,No,640,160,Purple,Yellow,Active,Top,-480
+589,muscle tank,No,640,160,Pink,White,Active,Top,-480
+590,muscle tank,No,640,160,Black,Orange,Active,Top,-480
+591,muscle tank,No,640,160,Red,Black,Active,Top,-480
+592,muscle tank,No,640,160,Green,Black,Active,Top,-480
+593,muscle tank,No,640,160,Blue,White,Active,Top,-480
+594,music-fest shirt,No,1200,300,Black,Yellow,Active,Top,-900
+595,music-fest shirt,No,1200,300,Red,Blue,Active,Top,-900
+596,music-fest shirt,No,1200,300,Purple,Pink,Active,Top,-900
+597,music-fest shirt,No,1200,300,Light blue,Green,Active,Top,-900
+598,MVP tee,No,640,160,White,Blue,Simple,Top,-480
+599,ni hao tee,No,640,160,Pink,White,Simple,Top,-480
+600,nine-ball tee,No,560,140,Orange,White,Active,Top,-420
+601,No. 1 shirt,No,560,140,Red,Light blue,Simple,Top,-420
+602,No. 2 shirt,No,560,140,Blue,Red,Simple,Top,-420
+603,No. 3 shirt,No,560,140,Green,Orange,Simple,Top,-420
+604,No. 4 shirt,No,560,140,Pink,Red,Simple,Top,-420
+605,noble coat,No,4800,1200,Green,Yellow,Gorgeous,Top,-3600
+606,noble coat,No,4800,1200,Pink,Yellow,Gorgeous,Top,-3600
+607,noble coat,No,4800,1200,White,Yellow,Gorgeous,Top,-3600
+608,noble coat,No,4800,1200,Blue,Yellow,Gorgeous,Top,-3600
+609,noble coat,No,4800,1200,Black,Yellow,Gorgeous,Top,-3600
+610,noble coat,No,4800,1200,Purple,Yellow,Gorgeous,Top,-3600
+611,noble coat,No,4800,1200,Yellow,Yellow,Gorgeous,Top,-3600
+612,noble coat,No,4800,1200,Red,Yellow,Gorgeous,Top,-3600
+613,Nook Inc. aloha shirt,No,0,3000,White,Green,Simple,Top,3000
+614,Nook Inc. blouson,No,0,4000,Green,Green,Simple,Top,4000
+615,Nook Inc. tee,No,0,3000,Yellow,Green,Simple,Top,3000
+616,nurse's jacket,No,1500,375,Light blue,Light blue,Simple,Top,-1125
+617,nurse's jacket,No,1500,375,White,White,Simple,Top,-1125
+618,nurse's jacket,No,1500,375,Pink,Pink,Simple,Top,-1125
+619,nylon jacket,No,1120,280,Black,Black,Cool,Top,-840
+620,nylon jacket,No,1120,280,Green,Green,Cool,Top,-840
+621,nylon jacket,No,1120,280,Blue,Blue,Cool,Top,-840
+622,nylon jacket,No,1120,280,Red,Red,Cool,Top,-840
+623,oilskin coat,No,1400,350,Yellow,Yellow,Active,Top,-1050
+624,oilskin coat,No,1400,350,Red,Yellow,Active,Top,-1050
+625,oilskin coat,No,1400,350,Gray,Gray,Active,Top,-1050
+626,OK Motors jacket,No,1500,375,White,Blue,Simple,Top,-1125
+627,old-school jacket,No,1800,450,Black,Red,Gorgeous,Top,-1350
+628,old-school jacket,No,1800,450,Black,Green,Gorgeous,Top,-1350
+629,old-school jacket,No,1800,450,Black,Purple,Gorgeous,Top,-1350
+630,one-ball tee,No,560,140,Yellow,White,Active,Top,-420
+631,open-collar shirt,No,960,240,Red,Red,Simple,Top,-720
+632,open-collar shirt,No,960,240,Light blue,Light blue,Simple,Top,-720
+633,open-collar shirt,No,960,240,Green,Green,Simple,Top,-720
+634,open-collar shirt,No,960,240,Beige,Beige,Simple,Top,-720
+635,oversized shawl overshirt,No,1120,280,Brown,Brown,Cool,Top,-840
+636,oversized shawl overshirt,No,1120,280,Pink,Gray,Cool,Top,-840
+637,oversized shawl overshirt,No,1120,280,Gray,Black,Cool,Top,-840
+638,parka undercoat,No,2320,580,Blue,Gray,Cool,Top,-1740
+639,parka undercoat,No,2320,580,Light blue,Gray,Cool,Top,-1740
+640,parka undercoat,No,2320,580,Black,White,Cool,Top,-1740
+641,parka undercoat,No,2320,580,Green,Black,Cool,Top,-1740
+642,parka undercoat,No,2320,580,Gray,Black,Cool,Top,-1740
+643,parka undercoat,No,2320,580,Yellow,Black,Cool,Top,-1740
+644,patchwork coat,No,2380,595,Brown,Orange,Cute,Top,-1785
+645,patchwork coat,No,2380,595,Green,Black,Cute,Top,-1785
+646,patchwork coat,No,2380,595,Gray,Black,Cute,Top,-1785
+647,peacoat,No,1960,490,Beige,Beige,Simple,Top,-1470
+648,peacoat,No,1960,490,Gray,Gray,Simple,Top,-1470
+649,peacoat,No,1960,490,Blue,Blue,Simple,Top,-1470
+650,peacoat,No,1960,490,Red,Red,Simple,Top,-1470
+651,peasant blouse,No,1680,420,White,Blue,Elegant,Top,-1260
+652,peasant blouse,No,1680,420,Black,White,Elegant,Top,-1260
+653,peasant blouse,No,1680,420,Beige,Green,Elegant,Top,-1260
+654,peasant blouse,No,1680,420,Pink,Orange,Elegant,Top,-1260
+655,peasant blouse,No,1680,420,Purple,Pink,Elegant,Top,-1260
+656,pineapple aloha shirt,No,960,240,Blue,Light blue,Active,Top,-720
+657,pineapple aloha shirt,No,960,240,Red,Yellow,Active,Top,-720
+658,pineapple aloha shirt,No,960,240,Yellow,Light blue,Active,Top,-720
+659,pineapple aloha shirt,No,960,240,Green,Yellow,Active,Top,-720
+660,pineapple aloha shirt,No,960,240,Purple,Light blue,Active,Top,-720
+661,pineapple aloha shirt,No,960,240,Pink,Orange,Active,Top,-720
+662,pineapple aloha shirt,No,960,240,Orange,Yellow,Active,Top,-720
+663,plaid puffed-sleeve shirt,No,1200,300,Light blue,Red,Cute,Top,-900
+664,plaid puffed-sleeve shirt,No,1200,300,Orange,Light blue,Cute,Top,-900
+665,plaid puffed-sleeve shirt,No,1200,300,Purple,Blue,Cute,Top,-900
+666,plaid puffed-sleeve shirt,No,1200,300,Green,Brown,Cute,Top,-900
+667,pleather trench coat,No,1680,420,Black,Black,Elegant,Top,-1260
+668,pleather trench coat,No,1680,420,Purple,Black,Elegant,Top,-1260
+669,pleather trench coat,No,1680,420,Brown,Black,Elegant,Top,-1260
+670,plover cardigan,No,1440,360,Red,Beige,Cute,Top,-1080
+671,plover cardigan,No,1440,360,Black,Beige,Cute,Top,-1080
+672,plover cardigan,No,1440,360,Green,Beige,Cute,Top,-1080
+673,plushie-muffler coat,No,1960,490,Light blue,Orange,Cute,Top,-1470
+674,plushie-muffler coat,No,1960,490,Black,Pink,Cute,Top,-1470
+675,plushie-muffler coat,No,1960,490,Brown,Gray,Cute,Top,-1470
+676,pocket tee,No,560,140,White,White,Simple,Top,-420
+677,pocket tee,No,560,140,Black,Black,Simple,Top,-420
+678,pocket tee,No,560,140,Purple,Purple,Simple,Top,-420
+679,pocket tee,No,560,140,Light blue,Light blue,Simple,Top,-420
+680,pocket tee,No,560,140,Brown,Brown,Simple,Top,-420
+681,pocket tee,No,560,140,Orange,Orange,Simple,Top,-420
+682,pocket tee,No,560,140,Red,Red,Simple,Top,-420
+683,pocket tee,No,560,140,Green,Green,Simple,Top,-420
+684,polo shirt,No,720,180,Blue,Blue,Simple,Top,-540
+685,polo shirt,No,720,180,Pink,Pink,Simple,Top,-540
+686,polo shirt,No,720,180,Red,Red,Simple,Top,-540
+687,polo shirt,No,720,180,Orange,Orange,Simple,Top,-540
+688,polo shirt,No,720,180,Green,Green,Simple,Top,-540
+689,polo shirt,No,720,180,Yellow,Yellow,Simple,Top,-540
+690,polo shirt,No,720,180,White,White,Simple,Top,-540
+691,polo shirt,No,720,180,Black,Black,Simple,Top,-540
+692,pom-pom sweater,No,1440,360,Pink,White,Cute,Top,-1080
+693,pom-pom sweater,No,1440,360,White,White,Cute,Top,-1080
+694,pom-pom sweater,No,1440,360,Light blue,White,Cute,Top,-1080
+695,poncho coat,No,2320,580,Red,White,Cute,Top,-1740
+696,poncho coat,No,2320,580,Yellow,White,Cute,Top,-1740
+697,poncho coat,No,2320,580,Pink,White,Cute,Top,-1740
+698,poncho coat,No,2320,580,Blue,Black,Cute,Top,-1740
+699,poncho-style sweater,No,1500,375,Purple,Red,Elegant,Top,-1125
+700,poncho-style sweater,No,1500,375,Blue,Purple,Elegant,Top,-1125
+701,poncho-style sweater,No,1500,375,Orange,Brown,Elegant,Top,-1125
+702,poncho-style sweater,No,1500,375,Blue,Green,Elegant,Top,-1125
+703,poncho-style sweater,No,1500,375,Gray,White,Elegant,Top,-1125
+704,prince's tunic,No,4800,1200,Blue,Red,Elegant,Top,-3600
+705,prince's tunic,No,4800,1200,Beige,Red,Elegant,Top,-3600
+706,prince's tunic,No,4800,1200,Green,Red,Elegant,Top,-3600
+707,prince's tunic,No,4800,1200,Red,Red,Elegant,Top,-3600
+708,prince's tunic,No,4800,1200,Purple,Red,Elegant,Top,-3600
+709,printed fleece sweater,No,1260,315,Green,Purple,Active,Top,-945
+710,printed fleece sweater,No,1260,315,Blue,Purple,Active,Top,-945
+711,printed fleece sweater,No,1260,315,Beige,Orange,Active,Top,-945
+712,printed fleece sweater,No,1260,315,Purple,Pink,Active,Top,-945
+713,printed fleece sweater,No,1260,315,Green,Orange,Active,Top,-945
+714,printed layered shirt,No,560,140,Black,Red,Simple,Top,-420
+715,printed layered shirt,No,560,140,Yellow,White,Simple,Top,-420
+716,printed layered shirt,No,560,140,White,Black,Simple,Top,-420
+717,printed-sleeve sweater,No,560,140,Orange,Black,Simple,Top,-420
+718,printed-sleeve sweater,No,560,140,White,Black,Simple,Top,-420
+719,printed-sleeve sweater,No,560,140,Black,White,Simple,Top,-420
+720,privét tee,No,640,160,Green,White,Simple,Top,-480
+721,puffy vest,No,1250,312,Blue,White,Simple,Top,-938
+722,puffy vest,No,1250,312,Brown,White,Simple,Top,-938
+723,puffy vest,No,1250,312,Purple,White,Simple,Top,-938
+724,puffy vest,No,1250,312,Green,White,Simple,Top,-938
+725,puffy vest,No,1250,312,Red,White,Simple,Top,-938
+726,puffy-sleeve blouse,No,800,200,Light blue,Light blue,Simple,Top,-600
+727,puffy-sleeve blouse,No,800,200,Yellow,Yellow,Simple,Top,-600
+728,puffy-sleeve blouse,No,800,200,Pink,Pink,Simple,Top,-600
+729,puffy-sleeve blouse,No,800,200,Green,Green,Simple,Top,-600
+730,pullover jacket,No,1680,420,Red,Blue,Active,Top,-1260
+731,pullover jacket,No,1680,420,Light blue,Pink,Active,Top,-1260
+732,pullover jacket,No,1680,420,Blue,Orange,Active,Top,-1260
+733,pullover jacket,No,1680,420,Purple,Light blue,Active,Top,-1260
+734,pullover jacket,No,1680,420,Red,White,Active,Top,-1260
+735,quilted down jacket,No,1400,350,Blue,Black,Simple,Top,-1050
+736,quilted down jacket,No,1400,350,Gray,Black,Simple,Top,-1050
+737,quilted down jacket,No,1400,350,Green,Black,Simple,Top,-1050
+738,quilted down jacket,No,1400,350,Purple,Black,Simple,Top,-1050
+739,quilted down jacket,No,1400,350,Yellow,Black,Simple,Top,-1050
+740,quilted jacket,No,1400,350,Pink,Blue,Active,Top,-1050
+741,quilted jacket,No,1400,350,Brown,Blue,Active,Top,-1050
+742,quilted jacket,No,1400,350,Green,Blue,Active,Top,-1050
+743,quilted jacket,No,1400,350,Blue,Blue,Active,Top,-1050
+744,rabbit tee,No,800,200,Light blue,White,Active,Top,-600
+745,raglan shirt,No,800,200,Red,White,Simple,Top,-600
+746,raglan shirt,No,800,200,Green,White,Simple,Top,-600
+747,raglan shirt,No,800,200,Blue,White,Simple,Top,-600
+748,raglan shirt,No,800,200,Black,White,Simple,Top,-600
+749,raglan shirt,No,800,200,White,Black,Simple,Top,-600
+750,rainbow sweater,No,1200,300,Black,Colorful,Cute,Top,-900
+751,rainbow sweater,No,1200,300,White,Colorful,Cute,Top,-900
+752,rainbow sweater,No,1200,300,Red,Colorful,Cute,Top,-900
+753,rainbow sweater,No,1200,300,Green,Colorful,Cute,Top,-900
+754,rainbow sweater,No,1200,300,Light blue,Colorful,Cute,Top,-900
+755,raincoat,No,1280,320,Yellow,Yellow,Simple,Top,-960
+756,raincoat,No,1280,320,Green,Green,Simple,Top,-960
+757,raincoat,No,1280,320,Blue,Blue,Simple,Top,-960
+758,raincoat,No,1280,320,Purple,Purple,Simple,Top,-960
+759,raincoat,No,1280,320,Pink,Pink,Simple,Top,-960
+760,raincoat,No,1280,320,Red,Red,Simple,Top,-960
+761,raincoat,No,1280,320,Beige,Beige,Simple,Top,-960
+762,raincoat,No,1280,320,Black,Black,Simple,Top,-960
+763,reindeer sweater,No,1680,420,Green,Beige,Simple,Top,-1260
+764,reindeer sweater,No,1680,420,Brown,Beige,Simple,Top,-1260
+765,reindeer sweater,No,1680,420,Red,Beige,Simple,Top,-1260
+766,relay tank,No,960,240,Blue,Yellow,Active,Top,-720
+767,relay tank,No,960,240,Light blue,Purple,Active,Top,-720
+768,relay tank,No,960,240,Purple,Pink,Active,Top,-720
+769,relay tank,No,960,240,Black,Gray,Active,Top,-720
+770,relay tank,No,960,240,Orange,Light blue,Active,Top,-720
+771,relay tank,No,960,240,Green,Green,Active,Top,-720
+772,relay tank,No,960,240,Red,Gray,Active,Top,-720
+773,relay tank,No,960,240,White,Purple,Active,Top,-720
+774,retro coat,No,2380,595,Green,Black,Elegant,Top,-1785
+775,retro coat,No,2380,595,Brown,Black,Elegant,Top,-1785
+776,retro coat,No,2380,595,Red,Black,Elegant,Top,-1785
+777,retro coat,No,2380,595,Blue,Black,Elegant,Top,-1785
+778,retro sweater,No,1200,300,Purple,Colorful,Cute,Top,-900
+779,retro sweater,No,1200,300,Yellow,Colorful,Cute,Top,-900
+780,retro sweater,No,1200,300,White,Colorful,Cute,Top,-900
+781,retro sweater,No,1200,300,Blue,Colorful,Cute,Top,-900
+782,ribbon-straps tank,No,960,240,White,Black,Cute,Top,-720
+783,ribbon-straps tank,No,960,240,White,Pink,Cute,Top,-720
+784,ribbon-straps tank,No,960,240,White,Blue,Cute,Top,-720
+785,royal shirt,No,6720,1680,Red,White,Gorgeous,Top,-5040
+786,rubber apron,No,840,210,Black,White,Active,Top,-630
+787,rubber apron,No,840,210,White,Light blue,Active,Top,-630
+788,safety vest,No,1200,300,Black,Yellow,Active,Top,-900
+789,safety vest,No,1200,300,Orange,Blue,Active,Top,-900
+790,sailor-style shirt,No,1050,262,Blue,White,Simple,Top,-788
+791,sailor-style shirt,No,1050,262,Light blue,White,Simple,Top,-788
+792,sailor-style shirt,No,1050,262,White,Blue,Simple,Top,-788
+793,sailor's tee,No,1050,262,White,Blue,Simple,Top,-788
+794,sailor's tee,No,1050,262,White,Orange,Simple,Top,-788
+795,sailor's tee,No,1050,262,White,Light blue,Simple,Top,-788
+796,sailor's tee,No,1050,262,White,Green,Simple,Top,-788
+797,sailor's tee,No,1050,262,White,Brown,Simple,Top,-788
+798,sailor's tee,No,1050,262,White,Purple,Simple,Top,-788
+799,sailor's tee,No,1050,262,White,Red,Simple,Top,-788
+800,sailor's tee,No,1050,262,White,Pink,Simple,Top,-788
+801,samurai shirt,No,6720,1680,Red,Black,Cool,Top,-5040
+802,samurai shirt,No,6720,1680,Black,Gray,Cool,Top,-5040
+803,samurai shirt,No,6720,1680,Blue,Orange,Cool,Top,-5040
+804,samurai shirt,No,6720,1680,White,Black,Cool,Top,-5040
+805,samurai shirt,No,6720,1680,Orange,Blue,Cool,Top,-5040
+806,school jacket,No,1400,350,Black,Black,Simple,Top,-1050
+807,school jacket,No,1400,350,Red,Red,Simple,Top,-1050
+808,school jacket,No,1400,350,Green,Green,Simple,Top,-1050
+809,school jacket,No,1400,350,White,White,Simple,Top,-1050
+810,school jacket,No,1400,350,Purple,Purple,Simple,Top,-1050
+811,school jacket,No,1400,350,Gray,Gray,Simple,Top,-1050
+812,school jacket,No,1400,350,Blue,Blue,Simple,Top,-1050
+813,sea hanten shirt,No,1450,362,Blue,Red,Active,Top,-1088
+814,sea hanten shirt,No,1450,362,Light blue,White,Active,Top,-1088
+815,seven-ball tee,No,560,140,Brown,White,Active,Top,-420
+816,shirt with camera,No,1440,360,Light blue,Gray,Simple,Top,-1080
+817,shirt with camera,No,1440,360,Black,Gray,Simple,Top,-1080
+818,short peacoat,No,1680,420,Black,Black,Simple,Top,-1260
+819,short peacoat,No,1680,420,Blue,Blue,Simple,Top,-1260
+820,short peacoat,No,1680,420,Beige,Beige,Simple,Top,-1260
+821,short peacoat,No,1680,420,Orange,Orange,Simple,Top,-1260
+822,short peacoat,No,1680,420,Green,Green,Simple,Top,-1260
+823,short peacoat,No,1680,420,Gray,Gray,Simple,Top,-1260
+824,short peacoat,No,1680,420,Pink,Pink,Simple,Top,-1260
+825,short-sleeve dress shirt,No,560,140,White,White,Simple,Top,-420
+826,short-sleeve dress shirt,No,560,140,Red,Red,Simple,Top,-420
+827,short-sleeve dress shirt,No,560,140,Green,Green,Simple,Top,-420
+828,short-sleeve dress shirt,No,560,140,Yellow,Yellow,Simple,Top,-420
+829,short-sleeve dress shirt,No,560,140,Blue,Blue,Simple,Top,-420
+830,silk floral-print shirt,No,1200,300,Pink,Yellow,Cute,Top,-900
+831,silk floral-print shirt,No,1200,300,Blue,Yellow,Cute,Top,-900
+832,silk floral-print shirt,No,1200,300,Yellow,Yellow,Cute,Top,-900
+833,silk floral-print shirt,No,1200,300,Gray,Yellow,Cute,Top,-900
+834,silk floral-print shirt,No,1200,300,Purple,Yellow,Cute,Top,-900
+835,silk floral-print shirt,No,1200,300,Green,Yellow,Cute,Top,-900
+836,silk floral-print shirt,No,1200,300,Orange,Yellow,Cute,Top,-900
+837,silk shirt,No,1500,375,Green,Yellow,Elegant,Top,-1125
+838,silk shirt,No,1500,375,Red,Yellow,Elegant,Top,-1125
+839,silk shirt,No,1500,375,Blue,Yellow,Elegant,Top,-1125
+840,silk shirt,No,1500,375,Orange,Yellow,Elegant,Top,-1125
+841,silk shirt,No,1500,375,Black,Yellow,Elegant,Top,-1125
+842,simple knit sweater,No,960,240,White,White,Simple,Top,-720
+843,simple knit sweater,No,960,240,Black,Black,Simple,Top,-720
+844,simple knit sweater,No,960,240,Orange,Orange,Simple,Top,-720
+845,simple parka,No,1060,265,Gray,Gray,Simple,Top,-795
+846,simple parka,No,1060,265,Red,Red,Simple,Top,-795
+847,simple parka,No,1060,265,Green,Green,Simple,Top,-795
+848,simple parka,No,1060,265,Blue,Blue,Simple,Top,-795
+849,simple parka,No,1060,265,Yellow,Yellow,Simple,Top,-795
+850,simple parka,No,1060,265,Pink,Pink,Simple,Top,-795
+851,simple parka,No,1060,265,Light blue,Light blue,Simple,Top,-795
+852,simple parka,No,1060,265,Black,Black,Simple,Top,-795
+853,simple-dots tee,No,640,160,Yellow,White,Active,Top,-480
+854,simple-dots tee,No,640,160,Light blue,White,Active,Top,-480
+855,simple-dots tee,No,640,160,Red,White,Active,Top,-480
+856,simple-dots tee,No,640,160,Green,White,Active,Top,-480
+857,simple-dots tee,No,640,160,Black,White,Active,Top,-480
+858,six-ball tee,No,560,140,Green,White,Active,Top,-420
+859,skiwear,No,1680,420,Blue,Green,Active,Top,-1260
+860,skiwear,No,1680,420,Light blue,Orange,Active,Top,-1260
+861,skiwear,No,1680,420,Purple,Pink,Active,Top,-1260
+862,skiwear,No,1680,420,Green,Blue,Active,Top,-1260
+863,skiwear,No,1680,420,Red,Light blue,Active,Top,-1260
+864,skiwear,No,1680,420,Pink,Yellow,Active,Top,-1260
+865,skull tee,No,960,240,Black,Beige,Cool,Top,-720
+866,skull tee,No,960,240,Beige,Green,Cool,Top,-720
+867,skull tee,No,960,240,Purple,Beige,Cool,Top,-720
+868,sleeved apron,No,960,240,Pink,Red,Active,Top,-720
+869,sleeved apron,No,960,240,Light blue,Brown,Active,Top,-720
+870,sleeved apron,No,960,240,Orange,Green,Active,Top,-720
+871,sleeved apron,No,960,240,Green,Blue,Active,Top,-720
+872,sleeved apron,No,960,240,Purple,Black,Active,Top,-720
+873,sleeveless dress shirt,No,960,240,White,White,Simple,Top,-720
+874,sleeveless dress shirt,No,960,240,Pink,Pink,Simple,Top,-720
+875,sleeveless dress shirt,No,960,240,Green,Green,Simple,Top,-720
+876,sleeveless dress shirt,No,960,240,Orange,Orange,Simple,Top,-720
+877,sleeveless dress shirt,No,960,240,Light blue,Light blue,Simple,Top,-720
+878,sleeveless parka,No,1200,300,Green,Black,Active,Top,-900
+879,sleeveless parka,No,1200,300,Black,Black,Active,Top,-900
+880,sleeveless parka,No,1200,300,Pink,Black,Active,Top,-900
+881,sleeveless parka,No,1200,300,Purple,Black,Active,Top,-900
+882,sleeveless parka,No,1200,300,Orange,Black,Active,Top,-900
+883,sleeveless tunic,No,960,240,Purple,Purple,Simple,Top,-720
+884,sleeveless tunic,No,960,240,Blue,Blue,Simple,Top,-720
+885,sleeveless tunic,No,960,240,Green,Green,Simple,Top,-720
+886,sleeveless tunic,No,960,240,Beige,Beige,Simple,Top,-720
+887,sleeveless tunic,No,960,240,White,White,Simple,Top,-720
+888,sleeveless tunic,No,960,240,Yellow,Yellow,Simple,Top,-720
+889,snowflake sweater,No,960,240,Blue,White,Simple,Top,-720
+890,snowflake sweater,No,960,240,Light blue,White,Simple,Top,-720
+891,snowy sweater,No,1450,362,Gray,White,Simple,Top,-1088
+892,snowy sweater,No,1450,362,Blue,White,Simple,Top,-1088
+893,snowy sweater,No,1450,362,Black,White,Simple,Top,-1088
+894,soccer-uniform top,No,1330,332,Yellow,Green,Active,Top,-998
+895,soccer-uniform top,No,1330,332,Black,Red,Active,Top,-998
+896,soccer-uniform top,No,1330,332,Red,Blue,Active,Top,-998
+897,soccer-uniform top,No,1330,332,Blue,Blue,Active,Top,-998
+898,soccer-uniform top,No,1330,332,Light blue,White,Active,Top,-998
+899,soccer-uniform top,No,1330,332,Green,White,Active,Top,-998
+900,soccer-uniform top,No,1330,332,Orange,White,Active,Top,-998
+901,soccer-uniform top,No,1330,332,White,Black,Active,Top,-998
+902,space parka,No,1680,420,Blue,Purple,Cool,Top,-1260
+903,space parka,No,1680,420,Purple,Green,Cool,Top,-1260
+904,sparkly embroidered tank,No,960,240,White,Red,Cute,Top,-720
+905,sparkly embroidered tank,No,960,240,White,Yellow,Cute,Top,-720
+906,sparkly embroidered tank,No,960,240,White,Blue,Cute,Top,-720
+907,spider-web tee,No,960,240,Black,Gray,Cool,Top,-720
+908,sports tank,No,640,160,Red,White,Simple,Top,-480
+909,sports tank,No,640,160,Blue,White,Simple,Top,-480
+910,sports tank,No,640,160,Green,White,Simple,Top,-480
+911,sports tank,No,640,160,Pink,White,Simple,Top,-480
+912,sports tank,No,640,160,Yellow,White,Simple,Top,-480
+913,sports tank,No,640,160,Orange,White,Simple,Top,-480
+914,sports tank,No,640,160,Purple,White,Simple,Top,-480
+915,sports tank,No,640,160,Black,White,Simple,Top,-480
+916,staff uniform,No,800,200,Blue,White,Simple,Top,-600
+917,staff uniform,No,800,200,Yellow,White,Simple,Top,-600
+918,staff uniform,No,800,200,Pink,White,Simple,Top,-600
+919,starry tank,No,800,200,White,Colorful,Active,Top,-600
+920,striped shirt,No,960,240,Light blue,White,Simple,Top,-720
+921,striped shirt,No,960,240,Red,White,Simple,Top,-720
+922,striped shirt,No,960,240,Green,White,Simple,Top,-720
+923,striped shirt,No,960,240,Yellow,White,Simple,Top,-720
+924,striped shirt,No,960,240,Purple,White,Simple,Top,-720
+925,striped shirt,No,960,240,Blue,White,Simple,Top,-720
+926,striped tank,No,800,200,Green,White,Simple,Top,-600
+927,striped tank,No,800,200,Orange,White,Simple,Top,-600
+928,striped tank,No,800,200,Blue,White,Simple,Top,-600
+929,striped tank,No,800,200,Yellow,White,Simple,Top,-600
+930,striped tank,No,800,200,Red,White,Simple,Top,-600
+931,striped tank,No,800,200,Gray,White,Simple,Top,-600
+932,striped tank,No,800,200,Black,White,Simple,Top,-600
+933,striped tank,No,800,200,Pink,White,Simple,Top,-600
+934,striped tee,No,800,200,Blue,Black,Simple,Top,-600
+935,striped tee,No,800,200,Red,Black,Simple,Top,-600
+936,striped tee,No,800,200,Beige,Black,Simple,Top,-600
+937,striped tee,No,800,200,Green,Black,Simple,Top,-600
+938,striped tee,No,800,200,Purple,Black,Simple,Top,-600
+939,striped tee,No,800,200,White,Black,Simple,Top,-600
+940,sushi chef's outfit,No,1800,450,White,Blue,Simple,Top,-1350
+941,sushi chef's outfit,No,1800,450,Black,Beige,Simple,Top,-1350
+942,sweater on shirt,No,960,240,White,Pink,Elegant,Top,-720
+943,sweater on shirt,No,960,240,White,Light blue,Elegant,Top,-720
+944,sweater on shirt,No,960,240,White,Yellow,Elegant,Top,-720
+945,sweater on shirt,No,960,240,White,Green,Elegant,Top,-720
+946,sweater on shirt,No,960,240,White,Gray,Elegant,Top,-720
+947,sweater-vest,No,1400,350,Beige,White,Simple,Top,-1050
+948,sweater-vest,No,1400,350,Blue,White,Simple,Top,-1050
+949,sweater-vest,No,1400,350,Gray,White,Simple,Top,-1050
+950,sweater-vest,No,1400,350,White,White,Simple,Top,-1050
+951,sweatshirt,No,700,175,Gray,Gray,Simple,Top,-525
+952,sweatshirt,No,700,175,Green,Green,Simple,Top,-525
+953,sweatshirt,No,700,175,Yellow,Yellow,Simple,Top,-525
+954,sweatshirt,No,700,175,Purple,Purple,Simple,Top,-525
+955,sweatshirt,No,700,175,Red,Red,Simple,Top,-525
+956,sweatshirt,No,700,175,Blue,Blue,Simple,Top,-525
+957,sweetheart tank and shirt,No,1200,300,Gray,White,Elegant,Top,-900
+958,sweetheart tank and shirt,No,1200,300,Orange,White,Elegant,Top,-900
+959,sweetheart tank and shirt,No,1200,300,Green,White,Elegant,Top,-900
+960,sweetheart tank and shirt,No,1200,300,Pink,White,Elegant,Top,-900
+961,sweetheart tank and shirt,No,1200,300,Blue,White,Elegant,Top,-900
+962,tailcoat,No,2500,625,Black,Gray,Elegant,Top,-1875
+963,tailcoat,No,2500,625,White,Blue,Elegant,Top,-1875
+964,tailored jacket,No,1400,350,Gray,White,Simple,Top,-1050
+965,tailored jacket,No,1400,350,Black,White,Simple,Top,-1050
+966,tailored jacket,No,1400,350,Blue,White,Simple,Top,-1050
+967,tailored jacket,No,1400,350,Beige,White,Simple,Top,-1050
+968,tailored jacket,No,1400,350,Green,White,Simple,Top,-1050
+969,tank,No,350,87,Black,Black,Simple,Top,-263
+970,tank,No,350,87,White,White,Simple,Top,-263
+971,tank,No,350,87,Brown,Brown,Simple,Top,-263
+972,tank,No,350,87,Red,Red,Simple,Top,-263
+973,tank,No,350,87,Blue,Blue,Simple,Top,-263
+974,tee-parka combo,No,1400,350,Yellow,White,Simple,Top,-1050
+975,tee-parka combo,No,1400,350,Blue,White,Simple,Top,-1050
+976,tee-parka combo,No,1400,350,Orange,White,Simple,Top,-1050
+977,tee-parka combo,No,1400,350,Pink,White,Simple,Top,-1050
+978,tee-parka combo,No,1400,350,Green,White,Simple,Top,-1050
+979,tennis sweater,No,1440,360,White,White,Simple,Top,-1080
+980,tennis sweater,No,1440,360,Green,Light blue,Simple,Top,-1080
+981,tennis sweater,No,1440,360,Brown,Light blue,Simple,Top,-1080
+982,tennis sweater,No,1440,360,Red,Light blue,Simple,Top,-1080
+983,terry-cloth nightgown,No,1440,360,Light blue,White,Cute,Top,-1080
+984,terry-cloth nightgown,No,1440,360,Blue,White,Cute,Top,-1080
+985,terry-cloth nightgown,No,1440,360,Green,White,Cute,Top,-1080
+986,terry-cloth nightgown,No,1440,360,Orange,White,Cute,Top,-1080
+987,terry-cloth nightgown,No,1440,360,Pink,White,Cute,Top,-1080
+988,terry-cloth nightgown,No,1440,360,Yellow,White,Cute,Top,-1080
+989,terry-cloth nightgown,No,1440,360,Purple,White,Cute,Top,-1080
+990,text shirt,No,800,200,Black,Gray,Cool,Top,-600
+991,text shirt,No,800,200,White,Gray,Cool,Top,-600
+992,text shirt,No,800,200,Red,Black,Cool,Top,-600
+993,thick-stripes shirt,No,1120,280,Yellow,Blue,Active,Top,-840
+994,thick-stripes shirt,No,1120,280,Green,Blue,Active,Top,-840
+995,thick-stripes shirt,No,1120,280,Red,Blue,Active,Top,-840
+996,thick-stripes shirt,No,1120,280,Beige,Blue,Active,Top,-840
+997,thick-stripes shirt,No,1120,280,Purple,Green,Active,Top,-840
+998,thick-stripes shirt,No,1120,280,Red,Orange,Active,Top,-840
+999,thick-stripes shirt,No,1120,280,Gray,Blue,Active,Top,-840
+1000,thick-stripes shirt,No,1120,280,Light blue,Black,Active,Top,-840
+1001,thief's costume,No,2600,650,Black,Red,Cool,Top,-1950
+1002,thread-worn sweater,No,980,245,Green,White,Cool,Top,-735
+1003,thread-worn sweater,No,980,245,Black,White,Cool,Top,-735
+1004,thread-worn sweater,No,980,245,Beige,White,Cool,Top,-735
+1005,thread-worn sweater,No,980,245,Pink,White,Cool,Top,-735
+1006,three-ball tee,No,560,140,Red,White,Active,Top,-420
+1007,tie-dye shirt,No,800,200,Colorful,Colorful,Active,Top,-600
+1008,tiger jacket,No,1750,437,Green,White,Active,Top,-1313
+1009,tight-knit sweater,No,800,200,Black,Black,Simple,Top,-600
+1010,tight-knit sweater,No,800,200,Beige,Beige,Simple,Top,-600
+1011,tight-knit sweater,No,800,200,Gray,Gray,Simple,Top,-600
+1012,top coat,No,2000,500,Light blue,Blue,Simple,Top,-1500
+1013,top coat,No,2000,500,Beige,Pink,Simple,Top,-1500
+1014,top coat,No,2000,500,Brown,Green,Simple,Top,-1500
+1015,top coat,No,2000,500,Pink,White,Simple,Top,-1500
+1016,track jacket,No,910,227,Blue,Light blue,Active,Top,-683
+1017,track jacket,No,910,227,Gray,Pink,Active,Top,-683
+1018,track jacket,No,910,227,White,Pink,Active,Top,-683
+1019,track jacket,No,910,227,Orange,Black,Active,Top,-683
+1020,track jacket,No,910,227,Blue,Black,Active,Top,-683
+1021,track jacket,No,910,227,Green,White,Active,Top,-683
+1022,track jacket,No,910,227,Blue,Orange,Active,Top,-683
+1023,traditional straw coat,Yes,0,160,Beige,Beige,Simple,Top,160
+1024,tree sweater,No,880,220,Beige,Green,Simple,Top,-660
+1025,trench coat,No,1680,420,Beige,Beige,Elegant,Top,-1260
+1026,trench coat,No,1680,420,Light blue,Light blue,Elegant,Top,-1260
+1027,trench coat,No,1680,420,Red,Red,Elegant,Top,-1260
+1028,trench coat,No,1680,420,Orange,Orange,Elegant,Top,-1260
+1029,trench coat,No,1680,420,Blue,Blue,Elegant,Top,-1260
+1030,tube top,No,640,160,Green,Green,Cute,Top,-480
+1031,tube top,No,640,160,Red,Red,Cute,Top,-480
+1032,tube top,No,640,160,Orange,Orange,Cute,Top,-480
+1033,tube top,No,640,160,Black,Black,Cute,Top,-480
+1034,tube top,No,640,160,Purple,Purple,Cute,Top,-480
+1035,tube top,No,640,160,Blue,Blue,Cute,Top,-480
+1036,tube top,No,640,160,Brown,Brown,Cute,Top,-480
+1037,tunic tank,No,800,200,White,Black,Simple,Top,-600
+1038,tunic tank,No,800,200,Yellow,Black,Simple,Top,-600
+1039,tunic tank,No,800,200,Pink,Black,Simple,Top,-600
+1040,tunic tank,No,800,200,Green,Black,Simple,Top,-600
+1041,tuxedo jacket,No,2500,625,Black,White,Cool,Top,-1875
+1042,tuxedo jacket,No,2500,625,Gray,White,Cool,Top,-1875
+1043,tuxedo jacket,No,2500,625,White,Yellow,Cool,Top,-1875
+1044,tweed jacket,No,1680,420,Brown,Orange,Elegant,Top,-1260
+1045,tweed jacket,No,1680,420,Blue,Yellow,Elegant,Top,-1260
+1046,tweed jacket,No,1680,420,Beige,Green,Elegant,Top,-1260
+1047,tweed jacket,No,1680,420,Red,Blue,Elegant,Top,-1260
+1048,tweed jacket,No,1680,420,Green,Red,Elegant,Top,-1260
+1049,tweed jacket,No,1680,420,Pink,Light blue,Elegant,Top,-1260
+1050,tweed vest,No,1400,350,Green,Beige,Simple,Top,-1050
+1051,tweed vest,No,1400,350,Red,Beige,Simple,Top,-1050
+1052,tweed vest,No,1400,350,Blue,Beige,Simple,Top,-1050
+1053,two-ball tee,No,560,140,Blue,White,Active,Top,-420
+1054,V-neck sweater,No,840,210,Blue,Blue,Simple,Top,-630
+1055,V-neck sweater,No,840,210,Red,Red,Simple,Top,-630
+1056,V-neck sweater,No,840,210,Black,Black,Simple,Top,-630
+1057,vampire costume,No,2600,650,Black,Gray,Cool,Top,-1950
+1058,vampire costume,No,2600,650,Purple,Beige,Cool,Top,-1950
+1059,vertical-stripes shirt,No,960,240,Blue,White,Simple,Top,-720
+1060,vertical-stripes shirt,No,960,240,Purple,White,Simple,Top,-720
+1061,vertical-stripes shirt,No,960,240,Pink,White,Simple,Top,-720
+1062,vertical-stripes shirt,No,960,240,Green,White,Simple,Top,-720
+1063,vertical-stripes shirt,No,960,240,Gray,White,Simple,Top,-720
+1064,vertical-stripes shirt,No,960,240,Beige,White,Simple,Top,-720
+1065,vertical-stripes shirt,No,960,240,Orange,White,Simple,Top,-720
+1066,vest with binoculars,No,1440,360,Beige,Blue,Simple,Top,-1080
+1067,viking top,No,2500,625,Brown,Gray,Cool,Top,-1875
+1068,viking top,No,2500,625,Gray,Black,Cool,Top,-1875
+1069,viking top,No,2500,625,Blue,Green,Cool,Top,-1875
+1070,waistcoat,No,1750,437,Gray,White,Simple,Top,-1313
+1071,waistcoat,No,1750,437,Black,White,Simple,Top,-1313
+1072,waistcoat,No,1750,437,Beige,White,Simple,Top,-1313
+1073,waistcoat,No,1750,437,White,Black,Simple,Top,-1313
+1074,waistcoat,No,1750,437,Blue,Light blue,Simple,Top,-1313
+1075,western shirt,No,2100,525,Light blue,Brown,Active,Top,-1575
+1076,western shirt,No,2100,525,Pink,Brown,Active,Top,-1575
+1077,western shirt,No,2100,525,Yellow,Brown,Active,Top,-1575
+1078,western shirt,No,2100,525,Black,Brown,Active,Top,-1575
+1079,winter-solstice sweater,No,1200,300,Beige,Brown,Simple,Top,-900
+1080,work apron,No,1100,275,Brown,Blue,Active,Top,-825
+1081,work apron,No,1100,275,Green,White,Active,Top,-825
+1082,work shirt,No,1040,260,White,Red,Cool,Top,-780
+1083,work shirt,No,1040,260,White,Blue,Cool,Top,-780
+1084,work shirt,No,1040,260,White,Purple,Cool,Top,-780
+1085,work shirt,No,1040,260,White,Green,Cool,Top,-780
+1086,work shirt,No,1040,260,White,Black,Cool,Top,-780
+1087,worker's jacket,No,800,200,Light blue,Light blue,Active,Top,-600
+1088,worker's jacket,No,800,200,Beige,Beige,Active,Top,-600
+1089,worker's jacket,No,800,200,Blue,Blue,Active,Top,-600
+1090,workout top,No,560,140,Black,Green,Active,Top,-420
+1091,workout top,No,560,140,Black,Pink,Active,Top,-420
+1092,workout top,No,560,140,Black,Orange,Active,Top,-420
+1093,yodel cardigan,No,1440,360,Light blue,Blue,Simple,Top,-1080
+1094,yodel cardigan,No,1440,360,Beige,Brown,Simple,Top,-1080
+1095,yodel cardigan,No,1440,360,Yellow,White,Simple,Top,-1080
+1096,yodel cardigan,No,1440,360,Blue,White,Simple,Top,-1080
+1097,yodel cardigan,No,1440,360,Red,White,Simple,Top,-1080
+1098,yodel cardigan,No,1440,360,Blue,Red,Simple,Top,-1080
+1099,yodel sweater,No,1440,360,Orange,Blue,Simple,Top,-1080
+1100,yodel sweater,No,1440,360,Green,Pink,Simple,Top,-1080
+1101,yodel sweater,No,1440,360,Blue,Purple,Simple,Top,-1080
+1102,yodel sweater,No,1440,360,Brown,Orange,Simple,Top,-1080
+1103,yodel sweater,No,1440,360,Red,Light blue,Simple,Top,-1080
+1104,young-royal shirt,No,1440,360,White,Green,Gorgeous,Top,-1080
+1105,young-royal shirt,No,1440,360,Black,Red,Gorgeous,Top,-1080
+1106,young-royal shirt,No,1440,360,Pink,Pink,Gorgeous,Top,-1080
+1107,young-royal shirt,No,1440,360,Light blue,Blue,Gorgeous,Top,-1080
+1108,young-royal shirt,No,1440,360,Yellow,Orange,Gorgeous,Top,-1080
+1109,zigzag shirt,No,960,240,Green,Red,Active,Top,-720
+1110,acid-washed jeans,No,1320,330,Blue,Blue,Simple,Bottom,-990
+1111,acid-washed jeans,No,1320,330,Black,Black,Simple,Bottom,-990
+1112,animal-stripes skirt,No,1100,275,Yellow,Black,Cool,Bottom,-825
+1113,animal-stripes skirt,No,1100,275,Gray,Black,Cool,Bottom,-825
+1114,apron skirt,No,700,175,White,Purple,Simple,Bottom,-525
+1115,apron skirt,No,700,175,White,Light blue,Simple,Bottom,-525
+1116,apron skirt,No,700,175,White,Beige,Simple,Bottom,-525
+1117,athletic pants,No,880,220,Red,White,Active,Bottom,-660
+1118,athletic pants,No,880,220,Green,White,Active,Bottom,-660
+1119,athletic pants,No,880,220,Black,White,Active,Bottom,-660
+1120,athletic pants,No,880,220,Blue,White,Active,Bottom,-660
+1121,athletic shorts,No,560,140,Red,White,Active,Bottom,-420
+1122,athletic shorts,No,560,140,Green,White,Active,Bottom,-420
+1123,athletic shorts,No,560,140,Black,White,Active,Bottom,-420
+1124,athletic shorts,No,560,140,Blue,White,Active,Bottom,-420
+1125,basketball shorts,No,980,245,Purple,Yellow,Active,Bottom,-735
+1126,basketball shorts,No,980,245,Red,Black,Active,Bottom,-735
+1127,basketball shorts,No,980,245,Green,Orange,Active,Bottom,-735
+1128,basketball shorts,No,980,245,Orange,Blue,Active,Bottom,-735
+1129,basketball shorts,No,980,245,Blue,Red,Active,Bottom,-735
+1130,basketball shorts,No,980,245,Yellow,Green,Active,Bottom,-735
+1131,basketball shorts,No,980,245,Light blue,Blue,Active,Bottom,-735
+1132,basketball shorts,No,980,245,Black,Red,Active,Bottom,-735
+1133,bell-bottoms,No,1320,330,Orange,Orange,Gorgeous,Bottom,-990
+1134,bell-bottoms,No,1320,330,Brown,Brown,Gorgeous,Bottom,-990
+1135,bell-bottoms,No,1320,330,Beige,Beige,Gorgeous,Bottom,-990
+1136,bell-bottoms,No,1320,330,Green,Green,Gorgeous,Bottom,-990
+1137,bell-bottoms,No,1320,330,Blue,Blue,Gorgeous,Bottom,-990
+1138,belted wraparound skirt,No,1040,260,Yellow,Black,Simple,Bottom,-780
+1139,belted wraparound skirt,No,1040,260,Red,Black,Simple,Bottom,-780
+1140,belted wraparound skirt,No,1040,260,Green,Black,Simple,Bottom,-780
+1141,belted wraparound skirt,No,1040,260,Blue,Black,Simple,Bottom,-780
+1142,boa shorts,No,1200,300,Purple,Black,Active,Bottom,-900
+1143,boa shorts,No,1200,300,Green,Black,Active,Bottom,-900
+1144,boa shorts,No,1200,300,Beige,Black,Active,Bottom,-900
+1145,boa shorts,No,1200,300,Blue,Black,Active,Bottom,-900
+1146,boa shorts,No,1200,300,Red,Black,Active,Bottom,-900
+1147,boa shorts,No,1200,300,Orange,Black,Active,Bottom,-900
+1148,boa shorts,No,1200,300,Light blue,Black,Active,Bottom,-900
+1149,boa shorts,No,1200,300,Black,Black,Active,Bottom,-900
+1150,boa skirt,No,1300,325,Green,Black,Active,Bottom,-975
+1151,boa skirt,No,1300,325,Blue,Black,Active,Bottom,-975
+1152,boa skirt,No,1300,325,Purple,Black,Active,Bottom,-975
+1153,boa skirt,No,1300,325,Red,Black,Active,Bottom,-975
+1154,boa skirt,No,1300,325,Yellow,Black,Active,Bottom,-975
+1155,boa skirt,No,1300,325,Light blue,Black,Active,Bottom,-975
+1156,boa skirt,No,1300,325,Beige,Black,Active,Bottom,-975
+1157,boa skirt,No,1300,325,Brown,Black,Active,Bottom,-975
+1158,bomber-style skirt,No,1320,330,Green,Green,Cool,Bottom,-990
+1159,bomber-style skirt,No,1320,330,Black,Black,Cool,Bottom,-990
+1160,bomber-style skirt,No,1320,330,Blue,Blue,Cool,Bottom,-990
+1161,bomber-style skirt,No,1320,330,Brown,Brown,Cool,Bottom,-990
+1162,botanical shorts,No,700,175,Black,Red,Cool,Bottom,-525
+1163,botanical shorts,No,700,175,White,Red,Cool,Bottom,-525
+1164,box-pleated skirt,No,1320,330,Light blue,Light blue,Simple,Bottom,-990
+1165,box-pleated skirt,No,1320,330,Beige,Beige,Simple,Bottom,-990
+1166,box-pleated skirt,No,1320,330,Red,Red,Simple,Bottom,-990
+1167,box-pleated skirt,No,1320,330,Green,Green,Simple,Bottom,-990
+1168,buttoned lace skirt,No,1200,300,Yellow,Yellow,Simple,Bottom,-900
+1169,buttoned lace skirt,No,1200,300,White,White,Simple,Bottom,-900
+1170,buttoned lace skirt,No,1200,300,Pink,Pink,Simple,Bottom,-900
+1171,buttoned lace skirt,No,1200,300,Green,Green,Simple,Bottom,-900
+1172,buttoned lace skirt,No,1200,300,Purple,Purple,Simple,Bottom,-900
+1173,buttoned wraparound skirt,No,1820,455,Gray,Black,Elegant,Bottom,-1365
+1174,buttoned wraparound skirt,No,1820,455,Blue,Black,Elegant,Bottom,-1365
+1175,buttoned wraparound skirt,No,1820,455,Orange,Black,Elegant,Bottom,-1365
+1176,buttoned wraparound skirt,No,1820,455,Pink,Black,Elegant,Bottom,-1365
+1177,buttoned wraparound skirt,No,1820,455,Green,Black,Elegant,Bottom,-1365
+1178,buttoned wraparound skirt,No,1820,455,Purple,Black,Elegant,Bottom,-1365
+1179,camo pants,No,1300,325,Brown,Beige,Cool,Bottom,-975
+1180,camo pants,No,1300,325,Green,Beige,Cool,Bottom,-975
+1181,camo pants,No,1300,325,Pink,Brown,Cool,Bottom,-975
+1182,camo pants,No,1300,325,Blue,Light blue,Cool,Bottom,-975
+1183,camo pants,No,1300,325,Gray,Black,Cool,Bottom,-975
+1184,camo pants,No,1300,325,Purple,Purple,Cool,Bottom,-975
+1185,camo pants,No,1300,325,Red,Beige,Cool,Bottom,-975
+1186,camo skirt,No,1300,325,Brown,Beige,Cool,Bottom,-975
+1187,camo skirt,No,1300,325,Green,Beige,Cool,Bottom,-975
+1188,camo skirt,No,1300,325,Pink,Brown,Cool,Bottom,-975
+1189,camo skirt,No,1300,325,Blue,Light blue,Cool,Bottom,-975
+1190,camo skirt,No,1300,325,Gray,Black,Cool,Bottom,-975
+1191,camo skirt,No,1300,325,Purple,Purple,Cool,Bottom,-975
+1192,camo skirt,No,1300,325,Red,Beige,Cool,Bottom,-975
+1193,career skirt,No,1560,390,Gray,Gray,Simple,Bottom,-1170
+1194,career skirt,No,1560,390,Beige,Beige,Simple,Bottom,-1170
+1195,career skirt,No,1560,390,Pink,Pink,Simple,Bottom,-1170
+1196,career skirt,No,1560,390,Light blue,Light blue,Simple,Bottom,-1170
+1197,career skirt,No,1560,390,Green,Green,Simple,Bottom,-1170
+1198,career skirt,No,1560,390,Blue,Blue,Simple,Bottom,-1170
+1199,career skirt,No,1560,390,Red,Red,Simple,Bottom,-1170
+1200,cargo pants,No,770,192,Green,Green,Simple,Bottom,-578
+1201,cargo pants,No,770,192,Beige,Beige,Simple,Bottom,-578
+1202,cargo pants,No,770,192,Blue,Blue,Simple,Bottom,-578
+1203,cargo pants,No,770,192,Yellow,Yellow,Simple,Bottom,-578
+1204,cargo pants,No,770,192,Brown,Brown,Simple,Bottom,-578
+1205,cargo shorts,No,1080,270,Beige,Beige,Simple,Bottom,-810
+1206,cargo shorts,No,1080,270,Blue,Blue,Simple,Bottom,-810
+1207,cargo shorts,No,1080,270,Green,Green,Simple,Bottom,-810
+1208,cargo shorts,No,1080,270,Yellow,Yellow,Simple,Bottom,-810
+1209,cargo shorts,No,1080,270,Brown,Brown,Simple,Bottom,-810
+1210,casual pants,No,1100,275,Blue,Blue,Simple,Bottom,-825
+1211,casual pants,No,1100,275,Gray,Gray,Simple,Bottom,-825
+1212,casual pants,No,1100,275,Green,Green,Simple,Bottom,-825
+1213,casual pants,No,1100,275,Beige,Beige,Simple,Bottom,-825
+1214,casual pants,No,1100,275,Black,Black,Simple,Bottom,-825
+1215,casual pants,No,1100,275,Brown,Brown,Simple,Bottom,-825
+1216,chain pants,No,1300,325,Red,Black,Cool,Bottom,-975
+1217,chain pants,No,1300,325,Blue,Black,Cool,Bottom,-975
+1218,chain pants,No,1300,325,White,Black,Cool,Bottom,-975
+1219,chain pants,No,1300,325,Black,Black,Cool,Bottom,-975
+1220,chino pants,No,700,175,Beige,Beige,Simple,Bottom,-525
+1221,chino pants,No,700,175,Brown,Brown,Simple,Bottom,-525
+1222,chino pants,No,700,175,Blue,Blue,Simple,Bottom,-525
+1223,chino pants,No,700,175,Green,Green,Simple,Bottom,-525
+1224,chino pants,No,700,175,Gray,Gray,Simple,Bottom,-525
+1225,chino pants,No,700,175,Red,Red,Simple,Bottom,-525
+1226,chino pants,No,700,175,Yellow,Yellow,Simple,Bottom,-525
+1227,colorful skirt,No,1100,275,Red,Green,Simple,Bottom,-825
+1228,colorful skirt,No,1100,275,Blue,Orange,Simple,Bottom,-825
+1229,colorful skirt,No,1100,275,Pink,Green,Simple,Bottom,-825
+1230,colorful skirt,No,1100,275,Green,Pink,Simple,Bottom,-825
+1231,colorful skirt,No,1100,275,Red,Blue,Simple,Bottom,-825
+1232,comedian's pants,No,2100,525,Orange,Black,Gorgeous,Bottom,-1575
+1233,comedian's pants,No,2100,525,Blue,Black,Gorgeous,Bottom,-1575
+1234,comedian's pants,No,2100,525,Red,Black,Gorgeous,Bottom,-1575
+1235,comedian's pants,No,2100,525,Yellow,Black,Gorgeous,Bottom,-1575
+1236,comedian's pants,No,2100,525,Green,Black,Gorgeous,Bottom,-1575
+1237,comedian's pants,No,2100,525,Purple,Black,Gorgeous,Bottom,-1575
+1238,comedian's pants,No,2100,525,White,Black,Gorgeous,Bottom,-1575
+1239,comic shorts,No,1140,285,Colorful,Black,Cool,Bottom,-855
+1240,corduroy pants,No,1040,260,Orange,Orange,Simple,Bottom,-780
+1241,corduroy pants,No,1040,260,Brown,Brown,Simple,Bottom,-780
+1242,corduroy pants,No,1040,260,Pink,Pink,Simple,Bottom,-780
+1243,corduroy pants,No,1040,260,Green,Green,Simple,Bottom,-780
+1244,corduroy pants,No,1040,260,Gray,Gray,Simple,Bottom,-780
+1245,corduroy pants,No,1040,260,Black,Black,Simple,Bottom,-780
+1246,corduroy skirt,No,1040,260,Brown,Brown,Simple,Bottom,-780
+1247,corduroy skirt,No,1040,260,Orange,Orange,Simple,Bottom,-780
+1248,corduroy skirt,No,1040,260,Pink,Pink,Simple,Bottom,-780
+1249,corduroy skirt,No,1040,260,Green,Green,Simple,Bottom,-780
+1250,corduroy skirt,No,1040,260,Gray,Gray,Simple,Bottom,-780
+1251,corduroy skirt,No,1040,260,Black,Black,Simple,Bottom,-780
+1252,corte skirt,No,880,220,Light blue,Blue,Simple,Bottom,-660
+1253,corte skirt,No,880,220,Pink,Red,Simple,Bottom,-660
+1254,corte skirt,No,880,220,Green,Green,Simple,Bottom,-660
+1255,cropped pants,No,920,230,Black,Black,Simple,Bottom,-690
+1256,cropped pants,No,920,230,White,White,Simple,Bottom,-690
+1257,cropped pants,No,920,230,Pink,Pink,Simple,Bottom,-690
+1258,cropped pants,No,920,230,Light blue,Light blue,Simple,Bottom,-690
+1259,cropped pants,No,920,230,Beige,Beige,Simple,Bottom,-690
+1260,cropped pants,No,920,230,Orange,Orange,Simple,Bottom,-690
+1261,cropped pants,No,920,230,Blue,Blue,Simple,Bottom,-690
+1262,cropped pants,No,920,230,Yellow,Yellow,Simple,Bottom,-690
+1263,cuffed pants,No,1100,275,Brown,Beige,Simple,Bottom,-825
+1264,cuffed pants,No,1100,275,Purple,Pink,Simple,Bottom,-825
+1265,cuffed pants,No,1100,275,Green,Green,Simple,Bottom,-825
+1266,cuffed pants,No,1100,275,Black,Yellow,Simple,Bottom,-825
+1267,culottes,No,700,175,Light blue,Light blue,Cute,Bottom,-525
+1268,culottes,No,700,175,White,White,Cute,Bottom,-525
+1269,culottes,No,700,175,Pink,Pink,Cute,Bottom,-525
+1270,culottes,No,700,175,Green,Green,Cute,Bottom,-525
+1271,cut-pleather skirt,No,1100,275,Orange,Orange,Simple,Bottom,-825
+1272,cut-pleather skirt,No,1100,275,Pink,Pink,Simple,Bottom,-825
+1273,cut-pleather skirt,No,1100,275,Blue,Blue,Simple,Bottom,-825
+1274,cut-pleather skirt,No,1100,275,White,White,Simple,Bottom,-825
+1275,cycling shorts,No,700,175,Black,Red,Active,Bottom,-525
+1276,cycling shorts,No,700,175,White,Blue,Active,Bottom,-525
+1277,cycling shorts,No,700,175,White,Red,Active,Bottom,-525
+1278,cycling shorts,No,700,175,Black,Yellow,Active,Bottom,-525
+1279,cycling shorts,No,700,175,Black,Green,Active,Bottom,-525
+1280,cycling shorts,No,700,175,Black,Orange,Active,Bottom,-525
+1281,cycling shorts,No,700,175,Black,Purple,Active,Bottom,-525
+1282,cycling shorts,No,700,175,Black,Pink,Active,Bottom,-525
+1283,dance warm-up pants,No,1560,390,Black,Yellow,Active,Bottom,-1170
+1284,dance warm-up pants,No,1560,390,White,Yellow,Active,Bottom,-1170
+1285,dance warm-up pants,No,1560,390,Purple,Yellow,Active,Bottom,-1170
+1286,dance warm-up pants,No,1560,390,Red,Yellow,Active,Bottom,-1170
+1287,denim cutoffs,No,1120,280,Blue,Blue,Simple,Bottom,-840
+1288,denim cutoffs,No,1120,280,Light blue,Light blue,Simple,Bottom,-840
+1289,denim cutoffs,No,1120,280,White,White,Simple,Bottom,-840
+1290,denim cutoffs,No,1120,280,Black,Black,Simple,Bottom,-840
+1291,denim painter's pants,No,1560,390,Blue,Blue,Simple,Bottom,-1170
+1292,denim painter's pants,No,1560,390,Light blue,Light blue,Simple,Bottom,-1170
+1293,denim painter's pants,No,1560,390,Black,Black,Simple,Bottom,-1170
+1294,denim painter's pants,No,1560,390,White,White,Simple,Bottom,-1170
+1295,denim pants,No,1120,280,Blue,Brown,Simple,Bottom,-840
+1296,denim pants,No,1120,280,Light blue,Brown,Simple,Bottom,-840
+1297,denim pants,No,1120,280,Black,Black,Simple,Bottom,-840
+1298,denim pants,No,1120,280,White,Black,Simple,Bottom,-840
+1299,denim skirt,No,1120,280,Blue,Blue,Simple,Bottom,-840
+1300,denim skirt,No,1120,280,Light blue,Light blue,Simple,Bottom,-840
+1301,denim skirt,No,1120,280,Black,Black,Simple,Bottom,-840
+1302,denim skirt,No,1120,280,White,White,Simple,Bottom,-840
+1303,dotted shorts,No,980,245,Black,Brown,Cute,Bottom,-735
+1304,dotted shorts,No,980,245,Gray,Yellow,Cute,Bottom,-735
+1305,down pants,No,1120,280,Blue,Blue,Active,Bottom,-840
+1306,down pants,No,1120,280,Black,Black,Active,Bottom,-840
+1307,down pants,No,1120,280,Red,Red,Active,Bottom,-840
+1308,down pants,No,1120,280,White,White,Active,Bottom,-840
+1309,down pants,No,1120,280,Green,Green,Active,Bottom,-840
+1310,down pants,No,1120,280,Yellow,Yellow,Active,Bottom,-840
+1311,down pants,No,1120,280,Orange,Orange,Active,Bottom,-840
+1312,down skirt,No,1040,260,Blue,Blue,Active,Bottom,-780
+1313,down skirt,No,1040,260,Black,Black,Active,Bottom,-780
+1314,down skirt,No,1040,260,Red,Red,Active,Bottom,-780
+1315,down skirt,No,1040,260,White,White,Active,Bottom,-780
+1316,down skirt,No,1040,260,Green,Green,Active,Bottom,-780
+1317,down skirt,No,1040,260,Yellow,Yellow,Active,Bottom,-780
+1318,down skirt,No,1040,260,Orange,Orange,Active,Bottom,-780
+1319,draped skirt,No,1820,455,Red,White,Simple,Bottom,-1365
+1320,draped skirt,No,1820,455,Green,White,Simple,Bottom,-1365
+1321,draped skirt,No,1820,455,Blue,White,Simple,Bottom,-1365
+1322,draped skirt,No,1820,455,Black,White,Simple,Bottom,-1365
+1323,draped skirt,No,1820,455,Orange,White,Simple,Bottom,-1365
+1324,draped skirt,No,1820,455,Pink,White,Simple,Bottom,-1365
+1325,draped skirt,No,1820,455,Purple,White,Simple,Bottom,-1365
+1326,draped skirt,No,1820,455,Light blue,White,Simple,Bottom,-1365
+1327,dreamy pants,No,1440,360,Pink,Purple,Cute,Bottom,-1080
+1328,dreamy pants,No,1440,360,Green,Purple,Cute,Bottom,-1080
+1329,dreamy pants,No,1440,360,Yellow,Purple,Cute,Bottom,-1080
+1330,dreamy pants,No,1440,360,Blue,Purple,Cute,Bottom,-1080
+1331,dress pants,No,1300,325,Green,Black,Simple,Bottom,-975
+1332,dress pants,No,1300,325,Blue,Black,Simple,Bottom,-975
+1333,dress pants,No,1300,325,Beige,Black,Simple,Bottom,-975
+1334,dress pants,No,1300,325,Red,Black,Simple,Bottom,-975
+1335,elephant-print pants,No,1100,275,Red,Beige,Simple,Bottom,-825
+1336,elephant-print pants,No,1100,275,Blue,Light blue,Simple,Bottom,-825
+1337,elephant-print pants,No,1100,275,Orange,Beige,Simple,Bottom,-825
+1338,elephant-print pants,No,1100,275,Green,Beige,Simple,Bottom,-825
+1339,elephant-print pants,No,1100,275,Purple,Purple,Simple,Bottom,-825
+1340,elephant-print pants,No,1100,275,Black,Gray,Simple,Bottom,-825
+1341,embellished denim pants,No,1300,325,Blue,Red,Cool,Bottom,-975
+1342,embellished denim pants,No,1300,325,Light blue,White,Cool,Bottom,-975
+1343,embellished denim pants,No,1300,325,Black,Gray,Cool,Bottom,-975
+1344,embroidered floral skirt,No,1320,330,Green,Light blue,Elegant,Bottom,-990
+1345,embroidered floral skirt,No,1320,330,Blue,Purple,Elegant,Bottom,-990
+1346,embroidered floral skirt,No,1320,330,Red,Orange,Elegant,Bottom,-990
+1347,embroidered-pattern skirt,No,1100,275,Blue,White,Simple,Bottom,-825
+1348,embroidered-pattern skirt,No,1100,275,Green,White,Simple,Bottom,-825
+1349,embroidered-pattern skirt,No,1100,275,Red,White,Simple,Bottom,-825
+1350,explorer shorts,No,1040,260,Beige,Beige,Active,Bottom,-780
+1351,explorer shorts,No,1040,260,Green,Green,Active,Bottom,-780
+1352,explorer shorts,No,1040,260,Gray,Gray,Active,Bottom,-780
+1353,explorer shorts,No,1040,260,Blue,Blue,Active,Bottom,-780
+1354,faux-fur skirt,No,1440,360,Light blue,White,Cute,Bottom,-1080
+1355,faux-fur skirt,No,1440,360,Pink,White,Cute,Bottom,-1080
+1356,faux-fur skirt,No,1440,360,Red,White,Cute,Bottom,-1080
+1357,faux-fur skirt,No,1440,360,Purple,White,Cute,Bottom,-1080
+1358,faux-fur skirt,No,1440,360,Beige,White,Cute,Bottom,-1080
+1359,faux-shearling skirt,No,1560,390,Beige,White,Simple,Bottom,-1170
+1360,faux-shearling skirt,No,1560,390,Pink,White,Simple,Bottom,-1170
+1361,faux-shearling skirt,No,1560,390,Green,White,Simple,Bottom,-1170
+1362,faux-shearling skirt,No,1560,390,Black,White,Simple,Bottom,-1170
+1363,faux-shearling skirt,No,1560,390,Gray,White,Simple,Bottom,-1170
+1364,flare skirt,No,1140,285,Red,Red,Simple,Bottom,-855
+1365,flare skirt,No,1140,285,Black,Black,Simple,Bottom,-855
+1366,flare skirt,No,1140,285,Pink,Pink,Simple,Bottom,-855
+1367,flare skirt,No,1140,285,Green,Green,Simple,Bottom,-855
+1368,flare skirt,No,1140,285,Light blue,Light blue,Simple,Bottom,-855
+1369,flashy slacks,No,1300,325,White,Black,Gorgeous,Bottom,-975
+1370,flashy slacks,No,1300,325,Black,Black,Gorgeous,Bottom,-975
+1371,flashy slacks,No,1300,325,Purple,Black,Gorgeous,Bottom,-975
+1372,flashy slacks,No,1300,325,Red,Black,Gorgeous,Bottom,-975
+1373,flashy slacks,No,1300,325,Green,Black,Gorgeous,Bottom,-975
+1374,flashy slacks,No,1300,325,Yellow,Black,Gorgeous,Bottom,-975
+1375,floral lace skirt,No,1320,330,Light blue,Light blue,Elegant,Bottom,-990
+1376,floral lace skirt,No,1320,330,Pink,Pink,Elegant,Bottom,-990
+1377,floral lace skirt,No,1320,330,Blue,Blue,Elegant,Bottom,-990
+1378,floral lace skirt,No,1320,330,Red,Red,Elegant,Bottom,-990
+1379,floral lace skirt,No,1320,330,Orange,Orange,Elegant,Bottom,-990
+1380,floral lace skirt,No,1320,330,Green,Green,Elegant,Bottom,-990
+1381,floral lace skirt,No,1320,330,Purple,Purple,Elegant,Bottom,-990
+1382,floral lace skirt,No,1320,330,Black,Black,Elegant,Bottom,-990
+1383,floral skirt,No,1100,275,Light blue,Red,Elegant,Bottom,-825
+1384,floral skirt,No,1100,275,Yellow,Pink,Elegant,Bottom,-825
+1385,floral skirt,No,1100,275,Pink,Purple,Elegant,Bottom,-825
+1386,football pants,No,980,245,Green,Green,Active,Bottom,-735
+1387,football pants,No,980,245,White,White,Active,Bottom,-735
+1388,football pants,No,980,245,Yellow,Yellow,Active,Bottom,-735
+1389,football pants,No,980,245,Red,Red,Active,Bottom,-735
+1390,football pants,No,980,245,Blue,Blue,Active,Bottom,-735
+1391,football pants,No,980,245,Black,Black,Active,Bottom,-735
+1392,formal shorts,No,840,210,White,White,Simple,Bottom,-630
+1393,formal shorts,No,840,210,Blue,Blue,Simple,Bottom,-630
+1394,formal shorts,No,840,210,Pink,Pink,Simple,Bottom,-630
+1395,formal shorts,No,840,210,Light blue,Light blue,Simple,Bottom,-630
+1396,formal shorts,No,840,210,Yellow,Yellow,Simple,Bottom,-630
+1397,formal shorts,No,840,210,Purple,Purple,Simple,Bottom,-630
+1398,formal shorts,No,840,210,Green,Green,Simple,Bottom,-630
+1399,formal shorts,No,840,210,Beige,Beige,Simple,Bottom,-630
+1400,frilly pants,No,1200,300,Yellow,Yellow,Simple,Bottom,-900
+1401,frilly pants,No,1200,300,Green,Green,Simple,Bottom,-900
+1402,frilly pants,No,1200,300,Pink,Pink,Simple,Bottom,-900
+1403,frilly pants,No,1200,300,Light blue,Light blue,Simple,Bottom,-900
+1404,frilly pants,No,1200,300,Orange,Orange,Simple,Bottom,-900
+1405,frilly skirt,No,1100,275,Pink,Pink,Cute,Bottom,-825
+1406,frilly skirt,No,1100,275,Blue,Blue,Cute,Bottom,-825
+1407,frilly skirt,No,1100,275,Green,Green,Cute,Bottom,-825
+1408,frilly skirt,No,1100,275,Orange,Orange,Cute,Bottom,-825
+1409,frilly skirt,No,1100,275,Purple,Purple,Cute,Bottom,-825
+1410,frilly skirt,No,1100,275,Gray,Gray,Cute,Bottom,-825
+1411,frilly sweatpants,No,880,220,Blue,Blue,Cute,Bottom,-660
+1412,frilly sweatpants,No,880,220,Pink,Pink,Cute,Bottom,-660
+1413,frilly sweatpants,No,880,220,Green,Green,Cute,Bottom,-660
+1414,frilly sweatpants,No,880,220,Orange,Orange,Cute,Bottom,-660
+1415,frilly sweatpants,No,880,220,Purple,Purple,Cute,Bottom,-660
+1416,frilly sweatpants,No,880,220,Gray,Gray,Cute,Bottom,-660
+1417,fringe skirt,No,1560,390,Beige,Beige,Simple,Bottom,-1170
+1418,fringe skirt,No,1560,390,Black,Black,Simple,Bottom,-1170
+1419,fringe skirt,No,1560,390,White,White,Simple,Bottom,-1170
+1420,fringe skirt,No,1560,390,Blue,Blue,Simple,Bottom,-1170
+1421,fringe skirt,No,1560,390,Yellow,Yellow,Simple,Bottom,-1170
+1422,fringe skirt,No,1560,390,Green,Green,Simple,Bottom,-1170
+1423,fringe skirt,No,1560,390,Red,Red,Simple,Bottom,-1170
+1424,gaucho pants,No,880,220,Gray,Gray,Simple,Bottom,-660
+1425,gaucho pants,No,880,220,Brown,Brown,Simple,Bottom,-660
+1426,gaucho pants,No,880,220,Green,Green,Simple,Bottom,-660
+1427,gaucho pants,No,880,220,Pink,Pink,Simple,Bottom,-660
+1428,gaucho pants,No,880,220,Light blue,Light blue,Simple,Bottom,-660
+1429,geometric-print pants,No,1040,260,Blue,Red,Simple,Bottom,-780
+1430,geometric-print pants,No,1040,260,Red,Beige,Simple,Bottom,-780
+1431,geometric-print pants,No,1040,260,Brown,Green,Simple,Bottom,-780
+1432,geometric-print pants,No,1040,260,Black,Blue,Simple,Bottom,-780
+1433,geometric-print pants,No,1040,260,Orange,Green,Simple,Bottom,-780
+1434,gingham picnic skirt,No,880,220,Red,Red,Simple,Bottom,-660
+1435,gingham picnic skirt,No,880,220,Green,Green,Simple,Bottom,-660
+1436,gingham picnic skirt,No,880,220,Blue,Blue,Simple,Bottom,-660
+1437,gingham picnic skirt,No,880,220,Black,Black,Simple,Bottom,-660
+1438,gingham picnic skirt,No,880,220,Orange,Orange,Simple,Bottom,-660
+1439,gingham picnic skirt,No,880,220,Pink,Pink,Simple,Bottom,-660
+1440,gingham picnic skirt,No,880,220,Purple,Purple,Simple,Bottom,-660
+1441,gingham picnic skirt,No,880,220,Light blue,Light blue,Simple,Bottom,-660
+1442,gobelin shorts,No,840,210,Beige,Pink,Elegant,Bottom,-630
+1443,gobelin shorts,No,840,210,Black,Pink,Elegant,Bottom,-630
+1444,grass skirt,Yes,0,140,Beige,Beige,Active,Bottom,140
+1445,green grass skirt,Yes,0,140,Green,Green,Active,Bottom,140
+1446,hickory-stripe pants,No,1560,390,Blue,Blue,Simple,Bottom,-1170
+1447,hickory-stripe pants,No,1560,390,Light blue,Light blue,Simple,Bottom,-1170
+1448,jogging shorts,No,700,175,Pink,White,Active,Bottom,-525
+1449,jogging shorts,No,700,175,Light blue,White,Active,Bottom,-525
+1450,jogging shorts,No,700,175,Green,White,Active,Bottom,-525
+1451,jogging shorts,No,700,175,Red,White,Active,Bottom,-525
+1452,jogging shorts,No,700,175,Blue,White,Active,Bottom,-525
+1453,jogging shorts,No,700,175,Black,White,Active,Bottom,-525
+1454,jogging shorts,No,700,175,Purple,White,Active,Bottom,-525
+1455,jogging shorts,No,700,175,Orange,White,Active,Bottom,-525
+1456,kilt,No,1000,250,Red,Green,Simple,Bottom,-750
+1457,kilt,No,1000,250,Black,Gray,Simple,Bottom,-750
+1458,kilt,No,1000,250,Blue,Black,Simple,Bottom,-750
+1459,kilt,No,1000,250,Green,Blue,Simple,Bottom,-750
+1460,knit pants,No,910,227,Gray,Gray,Simple,Bottom,-683
+1461,knit pants,No,910,227,Brown,Brown,Simple,Bottom,-683
+1462,knit pants,No,910,227,Light blue,Light blue,Simple,Bottom,-683
+1463,knit pants,No,910,227,Red,Red,Simple,Bottom,-683
+1464,knit skirt,No,910,227,Beige,Beige,Simple,Bottom,-683
+1465,knit skirt,No,910,227,Light blue,Light blue,Simple,Bottom,-683
+1466,knit skirt,No,910,227,Pink,Pink,Simple,Bottom,-683
+1467,knit skirt,No,910,227,Yellow,Yellow,Simple,Bottom,-683
+1468,kung-fu pants,No,1680,420,Blue,Blue,Simple,Bottom,-1260
+1469,kung-fu pants,No,1680,420,White,Gray,Simple,Bottom,-1260
+1470,kung-fu pants,No,1680,420,Light blue,White,Simple,Bottom,-1260
+1471,kung-fu pants,No,1680,420,Yellow,White,Simple,Bottom,-1260
+1472,kung-fu pants,No,1680,420,Green,White,Simple,Bottom,-1260
+1473,Labelle shorts,No,2540,635,Purple,White,Cool,Bottom,-1905
+1474,Labelle shorts,No,2540,635,Black,White,Cool,Bottom,-1905
+1475,Labelle shorts,No,2540,635,Red,White,Cool,Bottom,-1905
+1476,Labelle shorts,No,2540,635,Blue,White,Cool,Bottom,-1905
+1477,Labelle shorts,No,2540,635,Orange,White,Cool,Bottom,-1905
+1478,Labelle shorts,No,2540,635,Pink,White,Cool,Bottom,-1905
+1479,Labelle skirt,No,3100,775,Purple,Purple,Elegant,Bottom,-2325
+1480,Labelle skirt,No,3100,775,Black,Black,Elegant,Bottom,-2325
+1481,Labelle skirt,No,3100,775,Red,Red,Elegant,Bottom,-2325
+1482,Labelle skirt,No,3100,775,Blue,Blue,Elegant,Bottom,-2325
+1483,Labelle skirt,No,3100,775,Yellow,Yellow,Elegant,Bottom,-2325
+1484,Labelle skirt,No,3100,775,Pink,Pink,Elegant,Bottom,-2325
+1485,lace shorts,No,840,210,White,White,Cute,Bottom,-630
+1486,lace shorts,No,840,210,Black,Black,Cute,Bottom,-630
+1487,lace shorts,No,840,210,Green,Green,Cute,Bottom,-630
+1488,lace shorts,No,840,210,Pink,Pink,Cute,Bottom,-630
+1489,lace shorts,No,840,210,Light blue,Light blue,Cute,Bottom,-630
+1490,lace skirt,No,920,230,White,White,Cute,Bottom,-690
+1491,lace skirt,No,920,230,Pink,Pink,Cute,Bottom,-690
+1492,lace skirt,No,920,230,Green,Green,Cute,Bottom,-690
+1493,lace skirt,No,920,230,Beige,Beige,Cute,Bottom,-690
+1494,lemon skirt,No,880,220,Light blue,Yellow,Elegant,Bottom,-660
+1495,lemon skirt,No,880,220,White,Yellow,Elegant,Bottom,-660
+1496,lemon skirt,No,880,220,Black,Yellow,Elegant,Bottom,-660
+1497,leopard miniskirt,No,1820,455,Brown,Brown,Cool,Bottom,-1365
+1498,leopard miniskirt,No,1820,455,Gray,Black,Cool,Bottom,-1365
+1499,leopard miniskirt,No,1820,455,Blue,Blue,Cool,Bottom,-1365
+1500,leopard miniskirt,No,1820,455,Green,Green,Cool,Bottom,-1365
+1501,leopard miniskirt,No,1820,455,Purple,Purple,Cool,Bottom,-1365
+1502,leopard miniskirt,No,1820,455,Pink,Pink,Cool,Bottom,-1365
+1503,long chino skirt,No,1560,390,Beige,Beige,Simple,Bottom,-1170
+1504,long chino skirt,No,1560,390,Brown,Brown,Simple,Bottom,-1170
+1505,long chino skirt,No,1560,390,Blue,Blue,Simple,Bottom,-1170
+1506,long chino skirt,No,1560,390,Green,Green,Simple,Bottom,-1170
+1507,long chino skirt,No,1560,390,Gray,Gray,Simple,Bottom,-1170
+1508,long denim skirt,No,1560,390,Blue,Brown,Simple,Bottom,-1170
+1509,long denim skirt,No,1560,390,Light blue,Brown,Simple,Bottom,-1170
+1510,long denim skirt,No,1560,390,Black,Brown,Simple,Bottom,-1170
+1511,long denim skirt,No,1560,390,White,Brown,Simple,Bottom,-1170
+1512,long plaid skirt,No,1450,362,Red,Blue,Simple,Bottom,-1088
+1513,long plaid skirt,No,1450,362,Green,Blue,Simple,Bottom,-1088
+1514,long plaid skirt,No,1450,362,Blue,Blue,Simple,Bottom,-1088
+1515,long plaid skirt,No,1450,362,Orange,Brown,Simple,Bottom,-1088
+1516,long pleated skirt,No,1560,390,Red,Red,Simple,Bottom,-1170
+1517,long pleated skirt,No,1560,390,White,White,Simple,Bottom,-1170
+1518,long pleated skirt,No,1560,390,Yellow,Yellow,Simple,Bottom,-1170
+1519,long pleated skirt,No,1560,390,Light blue,Light blue,Simple,Bottom,-1170
+1520,long pleated skirt,No,1560,390,Gray,Gray,Simple,Bottom,-1170
+1521,long polka skirt,No,1300,325,Black,White,Simple,Bottom,-975
+1522,long polka skirt,No,1300,325,Red,White,Simple,Bottom,-975
+1523,long polka skirt,No,1300,325,Blue,White,Simple,Bottom,-975
+1524,long polka skirt,No,1300,325,Green,White,Simple,Bottom,-975
+1525,long polka skirt,No,1300,325,Orange,White,Simple,Bottom,-975
+1526,long polka skirt,No,1300,325,Yellow,White,Simple,Bottom,-975
+1527,long polka skirt,No,1300,325,Pink,White,Simple,Bottom,-975
+1528,long polka skirt,No,1300,325,Light blue,White,Simple,Bottom,-975
+1529,long sailor skirt,No,1560,390,Blue,Blue,Simple,Bottom,-1170
+1530,long sailor skirt,No,1560,390,Orange,Orange,Simple,Bottom,-1170
+1531,long sailor skirt,No,1560,390,Light blue,Light blue,Simple,Bottom,-1170
+1532,long sailor skirt,No,1560,390,Green,Green,Simple,Bottom,-1170
+1533,long sailor skirt,No,1560,390,Brown,Brown,Simple,Bottom,-1170
+1534,long sailor skirt,No,1560,390,Purple,Purple,Simple,Bottom,-1170
+1535,long sailor skirt,No,1560,390,Red,Red,Simple,Bottom,-1170
+1536,long sailor skirt,No,1560,390,Pink,Pink,Simple,Bottom,-1170
+1537,long sweatskirt,No,1000,250,Blue,Orange,Active,Bottom,-750
+1538,long sweatskirt,No,1000,250,Gray,Red,Active,Bottom,-750
+1539,long sweatskirt,No,1000,250,Green,Pink,Active,Bottom,-750
+1540,long sweatskirt,No,1000,250,Purple,Yellow,Active,Bottom,-750
+1541,muay-thai shorts,No,980,245,Blue,Yellow,Active,Bottom,-735
+1542,muay-thai shorts,No,980,245,Red,Black,Active,Bottom,-735
+1543,muay-thai shorts,No,980,245,Green,Red,Active,Bottom,-735
+1544,muay-thai shorts,No,980,245,Purple,Pink,Active,Bottom,-735
+1545,multicolor shorts,No,1100,275,Green,Green,Active,Bottom,-825
+1546,multicolor shorts,No,1100,275,Red,Orange,Active,Bottom,-825
+1547,multicolor shorts,No,1100,275,Blue,Light blue,Active,Bottom,-825
+1548,multicolor shorts,No,1100,275,Orange,Yellow,Active,Bottom,-825
+1549,noble pants,No,4300,1075,Black,Yellow,Gorgeous,Bottom,-3225
+1550,noble pants,No,4300,1075,Pink,Yellow,Gorgeous,Bottom,-3225
+1551,noble pants,No,4300,1075,White,Yellow,Gorgeous,Bottom,-3225
+1552,noble pants,No,4300,1075,Blue,Yellow,Gorgeous,Bottom,-3225
+1553,noble pants,No,4300,1075,Green,Yellow,Gorgeous,Bottom,-3225
+1554,noble pants,No,4300,1075,Purple,Yellow,Gorgeous,Bottom,-3225
+1555,noble pants,No,4300,1075,Yellow,Yellow,Gorgeous,Bottom,-3225
+1556,noble pants,No,4300,1075,Red,Yellow,Gorgeous,Bottom,-3225
+1557,outdoor shorts,No,700,175,Yellow,Yellow,Active,Bottom,-525
+1558,outdoor shorts,No,700,175,Black,Black,Active,Bottom,-525
+1559,outdoor shorts,No,700,175,Purple,Purple,Active,Bottom,-525
+1560,outdoor shorts,No,700,175,Red,Red,Active,Bottom,-525
+1561,outdoor shorts,No,700,175,Blue,Blue,Active,Bottom,-525
+1562,outdoor shorts,No,700,175,Green,Green,Active,Bottom,-525
+1563,outdoor shorts,No,700,175,Brown,Brown,Active,Bottom,-525
+1564,patched-knee pants,No,880,220,Brown,Orange,Simple,Bottom,-660
+1565,patched-knee pants,No,880,220,Purple,Purple,Simple,Bottom,-660
+1566,patched-knee pants,No,880,220,Green,Light blue,Simple,Bottom,-660
+1567,patched-knee pants,No,880,220,Yellow,Yellow,Simple,Bottom,-660
+1568,patchwork skirt,No,2100,525,Blue,Light blue,Cute,Bottom,-1575
+1569,patchwork skirt,No,2100,525,Red,Brown,Cute,Bottom,-1575
+1570,patchwork skirt,No,2100,525,Yellow,Brown,Cute,Bottom,-1575
+1571,patchwork skirt,No,2100,525,Green,Green,Cute,Bottom,-1575
+1572,pearl skirt,No,1680,420,Blue,White,Cute,Bottom,-1260
+1573,petal skirt,No,1540,385,Black,Colorful,Gorgeous,Bottom,-1155
+1574,petal skirt,No,1540,385,Purple,Colorful,Gorgeous,Bottom,-1155
+1575,petal skirt,No,1540,385,Light blue,Colorful,Gorgeous,Bottom,-1155
+1576,pineapple aloha shorts,No,840,210,Blue,Light blue,Active,Bottom,-630
+1577,pineapple aloha shorts,No,840,210,Red,Yellow,Active,Bottom,-630
+1578,pineapple aloha shorts,No,840,210,Yellow,Light blue,Active,Bottom,-630
+1579,pineapple aloha shorts,No,840,210,Green,Yellow,Active,Bottom,-630
+1580,pineapple aloha shorts,No,840,210,Purple,Light blue,Active,Bottom,-630
+1581,pineapple aloha shorts,No,840,210,Pink,Orange,Active,Bottom,-630
+1582,pineapple aloha shorts,No,840,210,Orange,Yellow,Active,Bottom,-630
+1583,plaid shorts,No,980,245,Light blue,Gray,Simple,Bottom,-735
+1584,plaid shorts,No,980,245,Brown,Orange,Simple,Bottom,-735
+1585,plaid shorts,No,980,245,Green,Green,Simple,Bottom,-735
+1586,plaid shorts,No,980,245,Red,Pink,Simple,Bottom,-735
+1587,pleather flare skirt,No,1560,390,Brown,Brown,Active,Bottom,-1170
+1588,pleather flare skirt,No,1560,390,Black,Black,Active,Bottom,-1170
+1589,pleather flare skirt,No,1560,390,Pink,Pink,Active,Bottom,-1170
+1590,pleather flare skirt,No,1560,390,Blue,Blue,Active,Bottom,-1170
+1591,pleather flare skirt,No,1560,390,Green,Green,Active,Bottom,-1170
+1592,pleather flare skirt,No,1560,390,Orange,Orange,Active,Bottom,-1170
+1593,pleather flare skirt,No,1560,390,Light blue,Light blue,Active,Bottom,-1170
+1594,pleather flare skirt,No,1560,390,White,White,Active,Bottom,-1170
+1595,pleather pants,No,1300,325,Black,Black,Cool,Bottom,-975
+1596,pleather pants,No,1300,325,Brown,Brown,Cool,Bottom,-975
+1597,pleather pants,No,1300,325,Beige,Beige,Cool,Bottom,-975
+1598,pleather pants,No,1300,325,Red,Red,Cool,Bottom,-975
+1599,pleather pants,No,1300,325,Blue,Blue,Cool,Bottom,-975
+1600,pleather pants,No,1300,325,Yellow,Yellow,Cool,Bottom,-975
+1601,pleather patch skirt,No,1680,420,Red,Blue,Simple,Bottom,-1260
+1602,pleather patch skirt,No,1680,420,Green,Orange,Simple,Bottom,-1260
+1603,pleather patch skirt,No,1680,420,Purple,Gray,Simple,Bottom,-1260
+1604,pleather patch skirt,No,1680,420,Yellow,Brown,Simple,Bottom,-1260
+1605,pleather shorts,No,1040,260,Black,Gray,Cool,Bottom,-780
+1606,pleather shorts,No,1040,260,Brown,Gray,Cool,Bottom,-780
+1607,pleather shorts,No,1040,260,White,Gray,Cool,Bottom,-780
+1608,pleather shorts,No,1040,260,Red,Gray,Cool,Bottom,-780
+1609,pleather skirt,No,1300,325,Black,Black,Cool,Bottom,-975
+1610,pleather skirt,No,1300,325,Brown,Brown,Cool,Bottom,-975
+1611,pleather skirt,No,1300,325,Beige,Beige,Cool,Bottom,-975
+1612,pleather skirt,No,1300,325,Red,Red,Cool,Bottom,-975
+1613,pleather skirt,No,1300,325,Blue,Blue,Cool,Bottom,-975
+1614,pleather skirt,No,1300,325,Yellow,Yellow,Cool,Bottom,-975
+1615,plover skirt,No,1200,300,Red,Beige,Cute,Bottom,-900
+1616,plover skirt,No,1200,300,Black,Beige,Cute,Bottom,-900
+1617,plover skirt,No,1200,300,Green,Beige,Cute,Bottom,-900
+1618,polka-dot mini skirt,No,1100,275,Beige,Beige,Simple,Bottom,-825
+1619,polka-dot mini skirt,No,1100,275,Pink,Pink,Simple,Bottom,-825
+1620,polka-dot mini skirt,No,1100,275,Light blue,Light blue,Simple,Bottom,-825
+1621,polka-dot mini skirt,No,1100,275,Gray,Gray,Simple,Bottom,-825
+1622,punk pants,No,1820,455,Red,Red,Cool,Bottom,-1365
+1623,punk pants,No,1820,455,Blue,Blue,Cool,Bottom,-1365
+1624,punk pants,No,1820,455,Green,Green,Cool,Bottom,-1365
+1625,punk pants,No,1820,455,Purple,Purple,Cool,Bottom,-1365
+1626,rain pants,No,700,175,Yellow,Yellow,Simple,Bottom,-525
+1627,rain pants,No,700,175,Green,Green,Simple,Bottom,-525
+1628,rain pants,No,700,175,Blue,Blue,Simple,Bottom,-525
+1629,rain pants,No,700,175,Purple,Purple,Simple,Bottom,-525
+1630,rain pants,No,700,175,Pink,Pink,Simple,Bottom,-525
+1631,rain pants,No,700,175,Red,Red,Simple,Bottom,-525
+1632,rain pants,No,700,175,Beige,Beige,Simple,Bottom,-525
+1633,rain pants,No,700,175,Black,Black,Simple,Bottom,-525
+1634,sailor skirt,No,980,245,Blue,Blue,Simple,Bottom,-735
+1635,sailor skirt,No,980,245,Orange,Orange,Simple,Bottom,-735
+1636,sailor skirt,No,980,245,Light blue,Light blue,Simple,Bottom,-735
+1637,sailor skirt,No,980,245,Green,Green,Simple,Bottom,-735
+1638,sailor skirt,No,980,245,Brown,Brown,Simple,Bottom,-735
+1639,sailor skirt,No,980,245,Purple,Purple,Simple,Bottom,-735
+1640,sailor skirt,No,980,245,Red,Red,Simple,Bottom,-735
+1641,sailor skirt,No,980,245,Pink,Pink,Simple,Bottom,-735
+1642,satin pants,No,880,220,Green,Green,Simple,Bottom,-660
+1643,satin pants,No,880,220,Blue,Blue,Simple,Bottom,-660
+1644,satin pants,No,880,220,Purple,Purple,Simple,Bottom,-660
+1645,satin pants,No,880,220,Pink,Pink,Simple,Bottom,-660
+1646,satin pants,No,880,220,Red,Red,Simple,Bottom,-660
+1647,satin pants,No,880,220,Brown,Brown,Simple,Bottom,-660
+1648,school pants,No,880,220,Black,Blue,Simple,Bottom,-660
+1649,school pants,No,880,220,Red,Blue,Simple,Bottom,-660
+1650,school pants,No,880,220,Green,Blue,Simple,Bottom,-660
+1651,school pants,No,880,220,White,Blue,Simple,Bottom,-660
+1652,school pants,No,880,220,Purple,Blue,Simple,Bottom,-660
+1653,school pants,No,880,220,Gray,Blue,Simple,Bottom,-660
+1654,school pants,No,880,220,Blue,Blue,Simple,Bottom,-660
+1655,silk floral-print pants,No,1440,360,Pink,Yellow,Cute,Bottom,-1080
+1656,silk floral-print pants,No,1440,360,Blue,Yellow,Cute,Bottom,-1080
+1657,silk floral-print pants,No,1440,360,Yellow,Yellow,Cute,Bottom,-1080
+1658,silk floral-print pants,No,1440,360,Gray,Yellow,Cute,Bottom,-1080
+1659,silk floral-print pants,No,1440,360,Purple,Yellow,Cute,Bottom,-1080
+1660,silk floral-print pants,No,1440,360,Green,Yellow,Cute,Bottom,-1080
+1661,silk floral-print pants,No,1440,360,Orange,Yellow,Cute,Bottom,-1080
+1662,silk pants,No,1440,360,Green,Yellow,Elegant,Bottom,-1080
+1663,silk pants,No,1440,360,Red,Yellow,Elegant,Bottom,-1080
+1664,silk pants,No,1440,360,Blue,Yellow,Elegant,Bottom,-1080
+1665,silk pants,No,1440,360,Yellow,Yellow,Elegant,Bottom,-1080
+1666,silk pants,No,1440,360,Black,Yellow,Elegant,Bottom,-1080
+1667,ski pants,No,1560,390,Green,Blue,Active,Bottom,-1170
+1668,ski pants,No,1560,390,Orange,Light blue,Active,Bottom,-1170
+1669,ski pants,No,1560,390,Pink,Purple,Active,Bottom,-1170
+1670,ski pants,No,1560,390,Blue,Green,Active,Bottom,-1170
+1671,ski pants,No,1560,390,Light blue,Red,Active,Bottom,-1170
+1672,ski pants,No,1560,390,Yellow,Pink,Active,Bottom,-1170
+1673,slacks,No,1300,325,Black,Brown,Simple,Bottom,-975
+1674,slacks,No,1300,325,Gray,Brown,Simple,Bottom,-975
+1675,slacks,No,1300,325,Light blue,Brown,Simple,Bottom,-975
+1676,slacks,No,1300,325,Red,Brown,Simple,Bottom,-975
+1677,slacks,No,1300,325,Blue,Brown,Simple,Bottom,-975
+1678,slacks,No,1300,325,Beige,Brown,Simple,Bottom,-975
+1679,slacks,No,1300,325,White,Brown,Simple,Bottom,-975
+1680,soccer shorts,No,980,245,Green,Green,Active,Bottom,-735
+1681,soccer shorts,No,980,245,Red,Red,Active,Bottom,-735
+1682,soccer shorts,No,980,245,Blue,Blue,Active,Bottom,-735
+1683,soccer shorts,No,980,245,Light blue,Light blue,Active,Bottom,-735
+1684,soccer shorts,No,980,245,White,White,Active,Bottom,-735
+1685,soccer shorts,No,980,245,Orange,Orange,Active,Bottom,-735
+1686,soccer shorts,No,980,245,Black,Black,Active,Bottom,-735
+1687,spangle shorts,No,980,245,Red,Red,Gorgeous,Bottom,-735
+1688,spangle shorts,No,980,245,Blue,Blue,Gorgeous,Bottom,-735
+1689,spangle shorts,No,980,245,Yellow,Yellow,Gorgeous,Bottom,-735
+1690,spangle shorts,No,980,245,Gray,Gray,Gorgeous,Bottom,-735
+1691,spangle shorts,No,980,245,Black,Black,Gorgeous,Bottom,-735
+1692,spangle shorts,No,980,245,Pink,Pink,Gorgeous,Bottom,-735
+1693,spangle shorts,No,980,245,Green,Green,Gorgeous,Bottom,-735
+1694,spangle shorts,No,980,245,Purple,Purple,Gorgeous,Bottom,-735
+1695,sporty skirt,No,800,200,Gray,Gray,Simple,Bottom,-600
+1696,sporty skirt,No,800,200,Pink,Pink,Simple,Bottom,-600
+1697,sporty skirt,No,800,200,Light blue,Light blue,Simple,Bottom,-600
+1698,sporty skirt,No,800,200,Green,Green,Simple,Bottom,-600
+1699,striped bell-bottoms,No,1320,330,Yellow,White,Elegant,Bottom,-990
+1700,striped bell-bottoms,No,1320,330,Red,Blue,Elegant,Bottom,-990
+1701,striped bell-bottoms,No,1320,330,Green,Blue,Elegant,Bottom,-990
+1702,striped bell-bottoms,No,1320,330,Orange,White,Elegant,Bottom,-990
+1703,striped pants,No,1100,275,Blue,White,Simple,Bottom,-825
+1704,striped pants,No,1100,275,Orange,White,Simple,Bottom,-825
+1705,striped pants,No,1100,275,Green,White,Simple,Bottom,-825
+1706,striped pants,No,1100,275,Red,White,Simple,Bottom,-825
+1707,striped pants,No,1100,275,Black,White,Simple,Bottom,-825
+1708,striped shorts,No,1320,330,Pink,Colorful,Cute,Bottom,-990
+1709,striped shorts,No,1320,330,Blue,Colorful,Cute,Bottom,-990
+1710,striped shorts,No,1320,330,Red,Colorful,Cute,Bottom,-990
+1711,striped shorts,No,1320,330,Yellow,Colorful,Cute,Bottom,-990
+1712,surfing shorts,No,700,175,Light blue,Blue,Active,Bottom,-525
+1713,surfing shorts,No,700,175,Purple,Purple,Active,Bottom,-525
+1714,surfing shorts,No,700,175,Green,Green,Active,Bottom,-525
+1715,surfing shorts,No,700,175,Pink,Red,Active,Bottom,-525
+1716,surfing shorts,No,700,175,Gray,Black,Active,Bottom,-525
+1717,sweatpants,No,800,200,Gray,Gray,Active,Bottom,-600
+1718,sweatpants,No,800,200,Red,Red,Active,Bottom,-600
+1719,sweatpants,No,800,200,Green,Green,Active,Bottom,-600
+1720,sweatpants,No,800,200,Blue,Blue,Active,Bottom,-600
+1721,sweatpants,No,800,200,Yellow,Yellow,Active,Bottom,-600
+1722,sweatpants,No,800,200,Pink,Pink,Active,Bottom,-600
+1723,sweatpants,No,800,200,Light blue,Light blue,Active,Bottom,-600
+1724,sweatpants,No,800,200,Black,Black,Active,Bottom,-600
+1725,tennis skirt,No,1440,360,White,Blue,Active,Bottom,-1080
+1726,tennis skirt,No,1440,360,Blue,White,Active,Bottom,-1080
+1727,tennis skirt,No,1440,360,Light blue,Blue,Active,Bottom,-1080
+1728,tennis skirt,No,1440,360,Pink,White,Active,Bottom,-1080
+1729,terry-cloth shorts,No,1260,315,Pink,Pink,Cute,Bottom,-945
+1730,terry-cloth shorts,No,1260,315,Light blue,Light blue,Cute,Bottom,-945
+1731,terry-cloth shorts,No,1260,315,Purple,Purple,Cute,Bottom,-945
+1732,terry-cloth shorts,No,1260,315,Green,Green,Cute,Bottom,-945
+1733,three-quarter sweatpants,No,1100,275,Green,White,Active,Bottom,-825
+1734,three-quarter sweatpants,No,1100,275,Pink,White,Active,Bottom,-825
+1735,three-quarter sweatpants,No,1100,275,Light blue,White,Active,Bottom,-825
+1736,three-quarter sweatpants,No,1100,275,Orange,White,Active,Bottom,-825
+1737,three-quarter sweatpants,No,1100,275,Black,White,Active,Bottom,-825
+1738,three-quarter sweatpants,No,1100,275,Yellow,White,Active,Bottom,-825
+1739,three-quarter sweatpants,No,1100,275,Red,White,Active,Bottom,-825
+1740,three-quarter sweatpants,No,1100,275,Purple,White,Active,Bottom,-825
+1741,tie-dye skirt,No,1260,315,Red,Light blue,Active,Bottom,-945
+1742,tie-dye skirt,No,1260,315,Blue,Orange,Active,Bottom,-945
+1743,tie-dye skirt,No,1260,315,Green,Pink,Active,Bottom,-945
+1744,tie-dye skirt,No,1260,315,Purple,Yellow,Active,Bottom,-945
+1745,tie-dye skirt,No,1260,315,Orange,Green,Active,Bottom,-945
+1746,tiered skirt,No,1200,300,Pink,Pink,Simple,Bottom,-900
+1747,tiered skirt,No,1200,300,Light blue,Light blue,Simple,Bottom,-900
+1748,tiered skirt,No,1200,300,Green,Green,Simple,Bottom,-900
+1749,tiered skirt,No,1200,300,Yellow,Yellow,Simple,Bottom,-900
+1750,tiered skirt,No,1200,300,Blue,Blue,Simple,Bottom,-900
+1751,torn pants,No,0,10,Brown,Brown,Simple,Bottom,10
+1752,torn pants,No,0,10,Black,Black,Simple,Bottom,10
+1753,torn pants,No,0,10,Gray,Gray,Simple,Bottom,10
+1754,track pants,No,770,192,Blue,Light blue,Active,Bottom,-578
+1755,track pants,No,770,192,Gray,Pink,Active,Bottom,-578
+1756,track pants,No,770,192,White,Pink,Active,Bottom,-578
+1757,track pants,No,770,192,Orange,Black,Active,Bottom,-578
+1758,track pants,No,770,192,Blue,Black,Active,Bottom,-578
+1759,track pants,No,770,192,Green,White,Active,Bottom,-578
+1760,track pants,No,770,192,Blue,Orange,Active,Bottom,-578
+1761,traditional monpe pants,No,1040,260,Blue,Red,Simple,Bottom,-780
+1762,traditional monpe pants,No,1040,260,Blue,Orange,Simple,Bottom,-780
+1763,traditional monpe pants,No,1040,260,Orange,Orange,Simple,Bottom,-780
+1764,traditional monpe pants,No,1040,260,Red,Orange,Simple,Bottom,-780
+1765,traditional suteteko pants,No,560,140,Red,Red,Simple,Bottom,-420
+1766,traditional suteteko pants,No,560,140,Green,Green,Simple,Bottom,-420
+1767,traditional suteteko pants,No,560,140,Orange,Orange,Simple,Bottom,-420
+1768,traditional suteteko pants,No,560,140,Purple,Purple,Simple,Bottom,-420
+1769,traditional suteteko pants,No,560,140,Light blue,Light blue,Simple,Bottom,-420
+1770,traditional suteteko pants,No,560,140,Blue,Blue,Simple,Bottom,-420
+1771,tweed frilly skirt,No,1560,390,Brown,Brown,Cute,Bottom,-1170
+1772,tweed frilly skirt,No,1560,390,Gray,Black,Cute,Bottom,-1170
+1773,tweed frilly skirt,No,1560,390,Pink,Brown,Cute,Bottom,-1170
+1774,tweed frilly skirt,No,1560,390,Light blue,Blue,Cute,Bottom,-1170
+1775,tweed pants,No,1300,325,Brown,Brown,Simple,Bottom,-975
+1776,tweed pants,No,1300,325,Blue,Blue,Simple,Bottom,-975
+1777,tweed pants,No,1300,325,Beige,Beige,Simple,Bottom,-975
+1778,tweed pants,No,1300,325,Red,Red,Simple,Bottom,-975
+1779,tweed pants,No,1300,325,Green,Green,Simple,Bottom,-975
+1780,tweed pants,No,1300,325,Pink,Pink,Simple,Bottom,-975
+1781,tweed skirt,No,1300,325,Yellow,Green,Simple,Bottom,-975
+1782,tweed skirt,No,1300,325,Pink,Blue,Simple,Bottom,-975
+1783,tweed skirt,No,1300,325,Blue,Yellow,Simple,Bottom,-975
+1784,two-tone pants,No,880,220,Blue,Black,Active,Bottom,-660
+1785,two-tone pants,No,880,220,Gray,Black,Active,Bottom,-660
+1786,two-tone pants,No,880,220,Red,Black,Active,Bottom,-660
+1787,two-tone pants,No,880,220,Yellow,Light blue,Active,Bottom,-660
+1788,upcycled skirt,No,1320,330,Beige,White,Simple,Bottom,-990
+1789,upcycled skirt,No,1320,330,Pink,White,Simple,Bottom,-990
+1790,upcycled skirt,No,1320,330,Light blue,White,Simple,Bottom,-990
+1791,vibrant shorts,No,980,245,Orange,Green,Active,Bottom,-735
+1792,vibrant shorts,No,980,245,Green,Orange,Active,Bottom,-735
+1793,vibrant shorts,No,980,245,Pink,Green,Active,Bottom,-735
+1794,vibrant shorts,No,980,245,Blue,Yellow,Active,Bottom,-735
+1795,vibrant shorts,No,980,245,Black,Gray,Active,Bottom,-735
+1796,western pants,No,1540,385,Brown,Blue,Active,Bottom,-1155
+1797,wide chino pants,No,1100,275,Brown,Brown,Simple,Bottom,-825
+1798,wide chino pants,No,1100,275,Beige,Beige,Simple,Bottom,-825
+1799,wide chino pants,No,1100,275,Blue,Blue,Simple,Bottom,-825
+1800,wide chino pants,No,1100,275,Green,Green,Simple,Bottom,-825
+1801,wide chino pants,No,1100,275,Gray,Gray,Simple,Bottom,-825
+1802,workout pants,No,880,220,Black,Green,Active,Bottom,-660
+1803,workout pants,No,880,220,Black,Pink,Active,Bottom,-660
+1804,workout pants,No,880,220,Black,Orange,Active,Bottom,-660
+1805,worn-out cutoffs,No,960,240,Light blue,Light blue,Cool,Bottom,-720
+1806,worn-out cutoffs,No,960,240,Blue,Blue,Cool,Bottom,-720
+1807,worn-out cutoffs,No,960,240,White,White,Cool,Bottom,-720
+1808,worn-out cutoffs,No,960,240,Black,Black,Cool,Bottom,-720
+1809,worn-out jeans,No,1100,275,Light blue,Light blue,Cool,Bottom,-825
+1810,worn-out jeans,No,1100,275,Blue,Blue,Cool,Bottom,-825
+1811,worn-out jeans,No,1100,275,White,White,Cool,Bottom,-825
+1812,worn-out jeans,No,1100,275,Black,Black,Cool,Bottom,-825
+1813,yacht shorts,No,840,210,Light blue,Yellow,Cute,Bottom,-630
+1814,yacht shorts,No,840,210,Red,Green,Cute,Bottom,-630
+1815,yacht shorts,No,840,210,Pink,Light blue,Cute,Bottom,-630
+1816,yacht shorts,No,840,210,Purple,Pink,Cute,Bottom,-630
+1817,antique boots,No,2640,660,Brown,Brown,Simple,Shoe,-1980
+1818,antique boots,No,2640,660,Black,Black,Simple,Shoe,-1980
+1819,antique boots,No,2640,660,Beige,Beige,Simple,Shoe,-1980
+1820,armor shoes,Yes,0,3000,Gray,Gray,Cool,Shoe,3000
+1821,babouches,No,560,140,Light blue,White,Cute,Shoe,-420
+1822,babouches,No,560,140,Orange,White,Cute,Shoe,-420
+1823,babouches,No,560,140,Pink,White,Cute,Shoe,-420
+1824,babouches,No,560,140,Yellow,White,Cute,Shoe,-420
+1825,babouches,No,560,140,Gray,Yellow,Cute,Shoe,-420
+1826,babouches,No,560,140,Purple,Yellow,Cute,Shoe,-420
+1827,babouches,No,560,140,Green,Yellow,Cute,Shoe,-420
+1828,babouches,No,560,140,Red,Yellow,Cute,Shoe,-420
+1829,ballet slippers,No,2200,550,Pink,Pink,Elegant,Shoe,-1650
+1830,ballet slippers,No,2200,550,Light blue,Light blue,Elegant,Shoe,-1650
+1831,ballet slippers,No,2200,550,Blue,Blue,Elegant,Shoe,-1650
+1832,ballet slippers,No,2200,550,Purple,Purple,Elegant,Shoe,-1650
+1833,ballet slippers,No,2200,550,Black,Black,Elegant,Shoe,-1650
+1834,ballet slippers,No,2200,550,Beige,Beige,Elegant,Shoe,-1650
+1835,ballet slippers,No,2200,550,Yellow,Yellow,Elegant,Shoe,-1650
+1836,ballet slippers,No,2200,550,Orange,Orange,Elegant,Shoe,-1650
+1837,basketball shoes,No,1500,375,Red,Black,Active,Shoe,-1125
+1838,basketball shoes,No,1500,375,Green,Black,Active,Shoe,-1125
+1839,basketball shoes,No,1500,375,Beige,Black,Active,Shoe,-1125
+1840,basketball shoes,No,1500,375,Yellow,Black,Active,Shoe,-1125
+1841,basketball shoes,No,1500,375,Blue,Black,Active,Shoe,-1125
+1842,basketball shoes,No,1500,375,Purple,Black,Active,Shoe,-1125
+1843,basketball shoes,No,1500,375,Light blue,Black,Active,Shoe,-1125
+1844,basketball shoes,No,1500,375,Pink,Black,Active,Shoe,-1125
+1845,beaded sandals,No,1800,450,Orange,Colorful,Gorgeous,Shoe,-1350
+1846,beaded sandals,No,1800,450,Purple,Colorful,Gorgeous,Shoe,-1350
+1847,beaded sandals,No,1800,450,Yellow,Colorful,Gorgeous,Shoe,-1350
+1848,beaded sandals,No,1800,450,Red,Colorful,Gorgeous,Shoe,-1350
+1849,beaded sandals,No,1800,450,Green,Colorful,Gorgeous,Shoe,-1350
+1850,beaded sandals,No,1800,450,Beige,Colorful,Gorgeous,Shoe,-1350
+1851,boots,No,560,140,Green,Black,Simple,Shoe,-420
+1852,boots,No,560,140,Black,Black,Simple,Shoe,-420
+1853,boots,No,560,140,Blue,Black,Simple,Shoe,-420
+1854,boots,No,560,140,Red,Black,Simple,Shoe,-420
+1855,boots,No,560,140,Yellow,Black,Simple,Shoe,-420
+1856,business shoes,No,1300,325,Black,Black,Simple,Shoe,-975
+1857,business shoes,No,1300,325,Brown,Brown,Simple,Shoe,-975
+1858,cleats,No,1200,300,Blue,Gray,Active,Shoe,-900
+1859,cleats,No,1200,300,Light blue,Gray,Active,Shoe,-900
+1860,cleats,No,1200,300,Red,Gray,Active,Shoe,-900
+1861,cleats,No,1200,300,Yellow,Gray,Active,Shoe,-900
+1862,cleats,No,1200,300,Black,Gray,Active,Shoe,-900
+1863,cleats,No,1200,300,Orange,Gray,Active,Shoe,-900
+1864,cleats,No,1200,300,Green,Gray,Active,Shoe,-900
+1865,cleats,No,1200,300,Purple,Gray,Active,Shoe,-900
+1866,comfy sandals,No,1040,260,Brown,Beige,Simple,Shoe,-780
+1867,comfy sandals,No,1040,260,White,Beige,Simple,Shoe,-780
+1868,comfy sandals,No,1040,260,Green,Beige,Simple,Shoe,-780
+1869,comfy sandals,No,1040,260,Blue,Beige,Simple,Shoe,-780
+1870,comfy sandals,No,1040,260,Red,Beige,Simple,Shoe,-780
+1871,comfy sandals,No,1040,260,Orange,Beige,Simple,Shoe,-780
+1872,comfy sandals,No,1040,260,Yellow,Beige,Simple,Shoe,-780
+1873,comfy sandals,No,1040,260,Purple,Beige,Simple,Shoe,-780
+1874,cowboy boots,No,2380,595,Brown,Brown,Elegant,Shoe,-1785
+1875,cowboy boots,No,2380,595,Black,Brown,Elegant,Shoe,-1785
+1876,cowboy boots,No,2380,595,White,Brown,Elegant,Shoe,-1785
+1877,cowboy boots,No,2380,595,Pink,Brown,Elegant,Shoe,-1785
+1878,cowboy boots,No,2380,595,Light blue,Brown,Elegant,Shoe,-1785
+1879,cross-belt sandals,No,1040,260,Green,Green,Elegant,Shoe,-780
+1880,cross-belt sandals,No,1040,260,Pink,Pink,Elegant,Shoe,-780
+1881,cross-belt sandals,No,1040,260,Gray,Gray,Elegant,Shoe,-780
+1882,cross-belt sandals,No,1040,260,Brown,Brown,Elegant,Shoe,-780
+1883,cross-belt sandals,No,1040,260,Black,Black,Elegant,Shoe,-780
+1884,cross-belt sandals,No,1040,260,Purple,Purple,Elegant,Shoe,-780
+1885,cute sneakers,No,1260,315,Light blue,Pink,Cute,Shoe,-945
+1886,cute sneakers,No,1260,315,Green,Yellow,Cute,Shoe,-945
+1887,cute sneakers,No,1260,315,Pink,Purple,Cute,Shoe,-945
+1888,cute sneakers,No,1260,315,Yellow,Green,Cute,Shoe,-945
+1889,cute sneakers,No,1260,315,Purple,Green,Cute,Shoe,-945
+1890,cute sneakers,No,1260,315,Blue,Pink,Cute,Shoe,-945
+1891,DAL slippers,No,4040,1010,Blue,Blue,Simple,Shoe,-3030
+1892,earth-egg shoes,Yes,0,800,Red,Yellow,Active,Shoe,800
+1893,embroidered shoes,No,2100,525,Red,Pink,Elegant,Shoe,-1575
+1894,embroidered shoes,No,2100,525,White,Pink,Elegant,Shoe,-1575
+1895,embroidered shoes,No,2100,525,Black,Pink,Elegant,Shoe,-1575
+1896,embroidered shoes,No,2100,525,Light blue,Pink,Elegant,Shoe,-1575
+1897,faux-fur ankle booties,No,1450,362,Green,White,Elegant,Shoe,-1088
+1898,faux-fur ankle booties,No,1450,362,Beige,White,Elegant,Shoe,-1088
+1899,faux-fur ankle booties,No,1450,362,Red,Beige,Elegant,Shoe,-1088
+1900,faux-fur ankle booties,No,1450,362,Blue,Gray,Elegant,Shoe,-1088
+1901,faux-shearling boots,No,1600,400,Beige,White,Cute,Shoe,-1200
+1902,faux-shearling boots,No,1600,400,Pink,White,Cute,Shoe,-1200
+1903,faux-shearling boots,No,1600,400,Green,White,Cute,Shoe,-1200
+1904,faux-shearling boots,No,1600,400,Black,White,Cute,Shoe,-1200
+1905,faux-shearling boots,No,1600,400,Gray,White,Cute,Shoe,-1200
+1906,faux-suede sneakers,No,1080,270,Green,White,Simple,Shoe,-810
+1907,faux-suede sneakers,No,1080,270,Blue,White,Simple,Shoe,-810
+1908,faux-suede sneakers,No,1080,270,Beige,White,Simple,Shoe,-810
+1909,faux-suede sneakers,No,1080,270,Orange,White,Simple,Shoe,-810
+1910,faux-suede sneakers,No,1080,270,Pink,White,Simple,Shoe,-810
+1911,faux-suede sneakers,No,1080,270,Light blue,White,Simple,Shoe,-810
+1912,faux-suede sneakers,No,1080,270,Purple,White,Simple,Shoe,-810
+1913,faux-suede sneakers,No,1080,270,Red,White,Simple,Shoe,-810
+1914,flip-flops,No,350,87,Blue,Light blue,Active,Shoe,-263
+1915,flip-flops,No,350,87,Green,Orange,Active,Shoe,-263
+1916,flip-flops,No,350,87,Yellow,Green,Active,Shoe,-263
+1917,flip-flops,No,350,87,White,Pink,Active,Shoe,-263
+1918,flip-flops,No,350,87,Orange,Blue,Active,Shoe,-263
+1919,flip-flops,No,350,87,Light blue,Orange,Active,Shoe,-263
+1920,flip-flops,No,350,87,Pink,Gray,Active,Shoe,-263
+1921,flip-flops,No,350,87,Red,Yellow,Active,Shoe,-263
+1922,flower sandals,No,1200,300,Yellow,White,Cute,Shoe,-900
+1923,flower sandals,No,1200,300,Red,Pink,Cute,Shoe,-900
+1924,flower sandals,No,1200,300,Green,Green,Cute,Shoe,-900
+1925,flower sandals,No,1200,300,Purple,Purple,Cute,Shoe,-900
+1926,flower sandals,No,1200,300,Blue,Light blue,Cute,Shoe,-900
+1927,flower sandals,No,1200,300,Black,Gray,Cute,Shoe,-900
+1928,flower sandals,No,1200,300,White,Gray,Cute,Shoe,-900
+1929,ghillie brogues,No,2340,585,Brown,Brown,Gorgeous,Shoe,-1755
+1930,ghillie brogues,No,2340,585,Black,Black,Gorgeous,Shoe,-1755
+1931,ghillie brogues,No,2340,585,White,White,Gorgeous,Shoe,-1755
+1932,gladiator sandals,No,1800,450,Brown,Brown,Elegant,Shoe,-1350
+1933,gladiator sandals,No,1800,450,Black,Black,Elegant,Shoe,-1350
+1934,gladiator sandals,No,1800,450,Red,Red,Elegant,Shoe,-1350
+1935,gold-armor shoes,Yes,0,40000,Yellow,Yellow,Gorgeous,Shoe,40000
+1936,hi-tech sneakers,No,1260,315,Orange,Yellow,Cool,Shoe,-945
+1937,hi-tech sneakers,No,1260,315,Pink,Green,Cool,Shoe,-945
+1938,hi-tech sneakers,No,1260,315,Green,Light blue,Cool,Shoe,-945
+1939,hi-tech sneakers,No,1260,315,Light blue,Purple,Cool,Shoe,-945
+1940,hi-tech sneakers,No,1260,315,Blue,Red,Cool,Shoe,-945
+1941,high-tops,No,1080,270,Gray,Black,Simple,Shoe,-810
+1942,high-tops,No,1080,270,Brown,Black,Simple,Shoe,-810
+1943,high-tops,No,1080,270,Green,Black,Simple,Shoe,-810
+1944,high-tops,No,1080,270,Blue,Black,Simple,Shoe,-810
+1945,high-tops,No,1080,270,Purple,Black,Simple,Shoe,-810
+1946,high-tops,No,1080,270,Red,Black,Simple,Shoe,-810
+1947,high-tops,No,1080,270,Yellow,Black,Simple,Shoe,-810
+1948,high-tops,No,1080,270,White,Black,Simple,Shoe,-810
+1949,house slippers,No,490,122,Gray,White,Simple,Shoe,-368
+1950,house slippers,No,490,122,Blue,White,Simple,Shoe,-368
+1951,house slippers,No,490,122,Pink,White,Simple,Shoe,-368
+1952,house slippers,No,490,122,Yellow,White,Simple,Shoe,-368
+1953,house slippers,No,490,122,Green,White,Simple,Shoe,-368
+1954,house slippers,No,490,122,Light blue,White,Simple,Shoe,-368
+1955,house slippers,No,490,122,Red,White,Simple,Shoe,-368
+1956,house slippers,No,490,122,Beige,White,Simple,Shoe,-368
+1957,jester's shoes,No,1900,475,Purple,Red,Active,Shoe,-1425
+1958,jester's shoes,No,1900,475,Black,Red,Active,Shoe,-1425
+1959,jester's shoes,No,1900,475,Red,Blue,Active,Shoe,-1425
+1960,jester's shoes,No,1900,475,Green,Yellow,Active,Shoe,-1425
+1961,kiddie sneakers,No,700,175,Red,Yellow,Active,Shoe,-525
+1962,kiddie sneakers,No,700,175,Blue,Red,Active,Shoe,-525
+1963,kiddie sneakers,No,700,175,Green,Blue,Active,Shoe,-525
+1964,kiddie sneakers,No,700,175,Purple,Orange,Active,Shoe,-525
+1965,kiddie sneakers,No,700,175,Gray,Blue,Active,Shoe,-525
+1966,kiddie sneakers,No,700,175,Black,Red,Active,Shoe,-525
+1967,kimono sandals,No,1600,400,Black,Beige,Simple,Shoe,-1200
+1968,kimono sandals,No,1600,400,Red,Beige,Simple,Shoe,-1200
+1969,kimono sandals,No,1600,400,Pink,Beige,Simple,Shoe,-1200
+1970,kimono sandals,No,1600,400,Blue,Beige,Simple,Shoe,-1200
+1971,kimono sandals,No,1600,400,Gray,Beige,Simple,Shoe,-1200
+1972,kimono sandals,No,1600,400,Purple,Beige,Simple,Shoe,-1200
+1973,kimono sandals,No,1600,400,Yellow,Beige,Simple,Shoe,-1200
+1974,kimono sandals,No,1600,400,Green,Beige,Simple,Shoe,-1200
+1975,kung-fu shoes,No,1260,315,Black,White,Active,Shoe,-945
+1976,Labelle pumps,No,3500,875,Purple,Gray,Elegant,Shoe,-2625
+1977,Labelle pumps,No,3500,875,Black,Gray,Elegant,Shoe,-2625
+1978,Labelle pumps,No,3500,875,Red,Gray,Elegant,Shoe,-2625
+1979,Labelle pumps,No,3500,875,Blue,Gray,Elegant,Shoe,-2625
+1980,Labelle pumps,No,3500,875,Yellow,Gray,Elegant,Shoe,-2625
+1981,Labelle pumps,No,3500,875,Pink,Gray,Elegant,Shoe,-2625
+1982,Labelle sneakers,No,3300,825,Purple,Black,Cool,Shoe,-2475
+1983,Labelle sneakers,No,3300,825,Black,White,Cool,Shoe,-2475
+1984,Labelle sneakers,No,3300,825,Red,Black,Cool,Shoe,-2475
+1985,Labelle sneakers,No,3300,825,Blue,Black,Cool,Shoe,-2475
+1986,Labelle sneakers,No,3300,825,Yellow,Black,Cool,Shoe,-2475
+1987,Labelle sneakers,No,3300,825,Pink,Black,Cool,Shoe,-2475
+1988,lace-up boots,No,1920,480,Black,Black,Cool,Shoe,-1440
+1989,lace-up boots,No,1920,480,White,White,Cool,Shoe,-1440
+1990,lace-up boots,No,1920,480,Brown,Brown,Cool,Shoe,-1440
+1991,lace-up boots,No,1920,480,Red,Brown,Cool,Shoe,-1440
+1992,leaf-egg shoes,Yes,0,800,Yellow,Orange,Active,Shoe,800
+1993,leopard pumps,No,1560,390,Beige,Brown,Elegant,Shoe,-1170
+1994,leopard pumps,No,1560,390,Gray,Black,Elegant,Shoe,-1170
+1995,leopard pumps,No,1560,390,Blue,Blue,Elegant,Shoe,-1170
+1996,leopard pumps,No,1560,390,Green,Green,Elegant,Shoe,-1170
+1997,leopard pumps,No,1560,390,Purple,Purple,Elegant,Shoe,-1170
+1998,leopard pumps,No,1560,390,Pink,Pink,Elegant,Shoe,-1170
+1999,loafers,No,1300,325,Brown,Brown,Simple,Shoe,-975
+2000,loafers,No,1300,325,Black,Black,Simple,Shoe,-975
+2001,loafers,No,1300,325,White,Brown,Simple,Shoe,-975
+2002,loafers,No,1300,325,Pink,Black,Simple,Shoe,-975
+2003,loafers,No,1300,325,Blue,Black,Simple,Shoe,-975
+2004,loafers,No,1300,325,Yellow,Black,Simple,Shoe,-975
+2005,loafers,No,1300,325,Red,Black,Simple,Shoe,-975
+2006,mage's booties,No,1550,387,Black,Purple,Cool,Shoe,-1163
+2007,mage's booties,No,1550,387,Blue,Light blue,Cool,Shoe,-1163
+2008,mage's booties,No,1550,387,White,White,Cool,Shoe,-1163
+2009,mage's booties,No,1550,387,Red,Red,Cool,Shoe,-1163
+2010,mary janes,No,1800,450,Black,Black,Cute,Shoe,-1350
+2011,mary janes,No,1800,450,Red,Red,Cute,Shoe,-1350
+2012,mary janes,No,1800,450,White,White,Cute,Shoe,-1350
+2013,mary janes,No,1800,450,Light blue,Light blue,Cute,Shoe,-1350
+2014,mary janes,No,1800,450,Yellow,Yellow,Cute,Shoe,-1350
+2015,mary janes,No,1800,450,Blue,Blue,Cute,Shoe,-1350
+2016,mary janes,No,1800,450,Green,Green,Cute,Shoe,-1350
+2017,mary janes,No,1800,450,Pink,Pink,Cute,Shoe,-1350
+2018,moccasin boots,No,1120,280,Yellow,Beige,Simple,Shoe,-840
+2019,moccasin boots,No,1120,280,Green,Beige,Simple,Shoe,-840
+2020,moccasin boots,No,1120,280,Beige,Beige,Simple,Shoe,-840
+2021,moccasin boots,No,1120,280,Pink,Beige,Simple,Shoe,-840
+2022,moccasin boots,No,1120,280,Black,Beige,Simple,Shoe,-840
+2023,moccasin boots,No,1120,280,Light blue,Beige,Simple,Shoe,-840
+2024,moccasin boots,No,1120,280,Brown,Beige,Simple,Shoe,-840
+2025,moccasins,No,1080,270,Yellow,Brown,Elegant,Shoe,-810
+2026,moccasins,No,1080,270,Red,Black,Elegant,Shoe,-810
+2027,moccasins,No,1080,270,Light blue,Brown,Elegant,Shoe,-810
+2028,moccasins,No,1080,270,White,Black,Elegant,Shoe,-810
+2029,moccasins,No,1080,270,Pink,Brown,Elegant,Shoe,-810
+2030,moccasins,No,1080,270,Gray,Black,Elegant,Shoe,-810
+2031,moccasins,No,1080,270,Black,Black,Elegant,Shoe,-810
+2032,Nook Inc. slippers,No,0,2000,White,Green,Simple,Shoe,2000
+2033,outdoor sandals,No,630,157,Green,Black,Active,Shoe,-473
+2034,outdoor sandals,No,630,157,Red,Black,Active,Shoe,-473
+2035,outdoor sandals,No,630,157,Blue,Black,Active,Shoe,-473
+2036,outdoor sandals,No,630,157,Purple,Black,Active,Shoe,-473
+2037,outdoor sandals,No,630,157,Yellow,Black,Active,Shoe,-473
+2038,outdoor sandals,No,630,157,Orange,Black,Active,Shoe,-473
+2039,outdoor sandals,No,630,157,White,Black,Active,Shoe,-473
+2040,outdoor sandals,No,630,157,Black,Black,Active,Shoe,-473
+2041,paw slippers,No,1260,315,Pink,Pink,Cute,Shoe,-945
+2042,paw slippers,No,1260,315,Brown,Brown,Cute,Shoe,-945
+2043,paw slippers,No,1260,315,White,White,Cute,Shoe,-945
+2044,paw slippers,No,1260,315,Light blue,Light blue,Cute,Shoe,-945
+2045,paw slippers,No,1260,315,Black,Black,Cute,Shoe,-945
+2046,pleather ankle booties,No,1280,320,Brown,Brown,Elegant,Shoe,-960
+2047,pleather ankle booties,No,1280,320,Black,Black,Elegant,Shoe,-960
+2048,pleather ankle booties,No,1280,320,Green,Green,Elegant,Shoe,-960
+2049,pleather ankle booties,No,1280,320,Yellow,Yellow,Elegant,Shoe,-960
+2050,pleather sneakers,No,700,175,White,White,Simple,Shoe,-525
+2051,pleather sneakers,No,700,175,Black,Black,Simple,Shoe,-525
+2052,pleather sneakers,No,700,175,Red,White,Simple,Shoe,-525
+2053,pleather sneakers,No,700,175,Green,White,Simple,Shoe,-525
+2054,pleather sneakers,No,700,175,Blue,White,Simple,Shoe,-525
+2055,pleather sneakers,No,700,175,Yellow,White,Simple,Shoe,-525
+2056,pleather sneakers,No,700,175,Light blue,White,Simple,Shoe,-525
+2057,pleather sneakers,No,700,175,Orange,White,Simple,Shoe,-525
+2058,pom-pom boots,No,1600,400,Pink,White,Cute,Shoe,-1200
+2059,pom-pom boots,No,1600,400,Red,White,Cute,Shoe,-1200
+2060,pom-pom boots,No,1600,400,Yellow,White,Cute,Shoe,-1200
+2061,pom-pom boots,No,1600,400,Purple,White,Cute,Shoe,-1200
+2062,pom-pom boots,No,1600,400,Green,White,Cute,Shoe,-1200
+2063,pom-pom boots,No,1600,400,Blue,White,Cute,Shoe,-1200
+2064,pom-pom boots,No,1600,400,Gray,Black,Cute,Shoe,-1200
+2065,power boots,No,3150,787,Red,Gray,Active,Shoe,-2363
+2066,power boots,No,3150,787,Blue,Green,Active,Shoe,-2363
+2067,power boots,No,3150,787,Green,Purple,Active,Shoe,-2363
+2068,power boots,No,3150,787,Black,Red,Active,Shoe,-2363
+2069,rain boots,No,490,122,Yellow,Yellow,Simple,Shoe,-368
+2070,rain boots,No,490,122,Green,Green,Simple,Shoe,-368
+2071,rain boots,No,490,122,Blue,Blue,Simple,Shoe,-368
+2072,rain boots,No,490,122,Purple,Purple,Simple,Shoe,-368
+2073,rain boots,No,490,122,Pink,Pink,Simple,Shoe,-368
+2074,rain boots,No,490,122,Red,Red,Simple,Shoe,-368
+2075,rain boots,No,490,122,Beige,Beige,Simple,Shoe,-368
+2076,rain boots,No,490,122,Black,Black,Simple,Shoe,-368
+2077,recycled boots,Yes,0,40,Brown,Gray,Simple,Shoe,40
+2078,restroom slippers,No,350,87,Blue,Blue,Simple,Shoe,-263
+2079,restroom slippers,No,350,87,Red,Red,Simple,Shoe,-263
+2080,restroom slippers,No,350,87,Green,Green,Simple,Shoe,-263
+2081,restroom slippers,No,350,87,Light blue,Light blue,Simple,Shoe,-263
+2082,restroom slippers,No,350,87,Pink,Pink,Simple,Shoe,-263
+2083,ribbon sandals,No,1300,325,Blue,Beige,Cute,Shoe,-975
+2084,ribbon sandals,No,1300,325,White,Beige,Cute,Shoe,-975
+2085,ribbon sandals,No,1300,325,Pink,Beige,Cute,Shoe,-975
+2086,ribbon sandals,No,1300,325,Yellow,Beige,Cute,Shoe,-975
+2087,ribbon sandals,No,1300,325,Green,Beige,Cute,Shoe,-975
+2088,ribbon sandals,No,1300,325,Red,Beige,Cute,Shoe,-975
+2089,ribbon sandals,No,1300,325,Black,Beige,Cute,Shoe,-975
+2090,ribbon sandals,No,1300,325,Gray,Beige,Cute,Shoe,-975
+2091,rubber-toe high tops,No,1260,315,Blue,White,Simple,Shoe,-945
+2092,rubber-toe high tops,No,1260,315,Green,White,Simple,Shoe,-945
+2093,rubber-toe high tops,No,1260,315,Beige,White,Simple,Shoe,-945
+2094,rubber-toe high tops,No,1260,315,Pink,White,Simple,Shoe,-945
+2095,rubber-toe high tops,No,1260,315,Red,White,Simple,Shoe,-945
+2096,rubber-toe high tops,No,1260,315,Orange,White,Simple,Shoe,-945
+2097,rubber-toe high tops,No,1260,315,White,White,Simple,Shoe,-945
+2098,rubber-toe high tops,No,1260,315,Black,Black,Simple,Shoe,-945
+2099,rubber-toe sneakers,No,1080,270,Purple,White,Simple,Shoe,-810
+2100,rubber-toe sneakers,No,1080,270,Green,White,Simple,Shoe,-810
+2101,rubber-toe sneakers,No,1080,270,Yellow,White,Simple,Shoe,-810
+2102,rubber-toe sneakers,No,1080,270,Light blue,White,Simple,Shoe,-810
+2103,rubber-toe sneakers,No,1080,270,Red,White,Simple,Shoe,-810
+2104,rubber-toe sneakers,No,1080,270,Pink,White,Simple,Shoe,-810
+2105,rubber-toe sneakers,No,1080,270,Blue,White,Simple,Shoe,-810
+2106,rubber-toe sneakers,No,1080,270,Black,White,Simple,Shoe,-810
+2107,samurai greaves,No,4300,1075,Red,Blue,Cool,Shoe,-3225
+2108,samurai greaves,No,4300,1075,Black,Blue,Cool,Shoe,-3225
+2109,samurai greaves,No,4300,1075,Blue,Blue,Cool,Shoe,-3225
+2110,samurai greaves,No,4300,1075,White,Blue,Cool,Shoe,-3225
+2111,samurai greaves,No,4300,1075,Orange,Blue,Cool,Shoe,-3225
+2112,shiny bow platform shoes,No,2400,600,Pink,Pink,Cute,Shoe,-1800
+2113,shiny bow platform shoes,No,2400,600,Black,Black,Cute,Shoe,-1800
+2114,shiny bow platform shoes,No,2400,600,Red,Red,Cute,Shoe,-1800
+2115,shiny bow platform shoes,No,2400,600,Purple,Purple,Cute,Shoe,-1800
+2116,shiny bow platform shoes,No,2400,600,Blue,Blue,Cute,Shoe,-1800
+2117,shiny bow platform shoes,No,2400,600,White,White,Cute,Shoe,-1800
+2118,shower sandals,No,350,87,Black,White,Active,Shoe,-263
+2119,shower sandals,No,350,87,White,Gray,Active,Shoe,-263
+2120,shower sandals,No,350,87,Yellow,White,Active,Shoe,-263
+2121,shower sandals,No,350,87,Red,White,Active,Shoe,-263
+2122,shower sandals,No,350,87,Blue,White,Active,Shoe,-263
+2123,ski boots,No,1800,450,White,Blue,Active,Shoe,-1350
+2124,ski boots,No,1800,450,Orange,Black,Active,Shoe,-1350
+2125,ski boots,No,1800,450,Red,Black,Active,Shoe,-1350
+2126,ski boots,No,1800,450,Yellow,Green,Active,Shoe,-1350
+2127,ski boots,No,1800,450,Light blue,Yellow,Active,Shoe,-1350
+2128,ski boots,No,1800,450,Blue,Pink,Active,Shoe,-1350
+2129,sky-egg shoes,Yes,0,800,Green,Green,Active,Shoe,800
+2130,slip-on loafers,No,490,122,Yellow,White,Simple,Shoe,-368
+2131,slip-on loafers,No,490,122,Red,White,Simple,Shoe,-368
+2132,slip-on loafers,No,490,122,Blue,White,Simple,Shoe,-368
+2133,slip-on loafers,No,490,122,Green,White,Simple,Shoe,-368
+2134,slip-on loafers,No,490,122,Black,White,Simple,Shoe,-368
+2135,slip-on loafers,No,490,122,Light blue,White,Simple,Shoe,-368
+2136,slip-on loafers,No,490,122,White,White,Simple,Shoe,-368
+2137,slip-on loafers,No,490,122,Beige,White,Simple,Shoe,-368
+2138,slip-on sandals,No,560,140,Light blue,Light blue,Active,Shoe,-420
+2139,slip-on sandals,No,560,140,Yellow,Yellow,Active,Shoe,-420
+2140,slip-on sandals,No,560,140,Black,Black,Active,Shoe,-420
+2141,slip-on sandals,No,560,140,Pink,Pink,Active,Shoe,-420
+2142,slip-on sandals,No,560,140,Blue,Blue,Active,Shoe,-420
+2143,slip-on sandals,No,560,140,Red,Red,Active,Shoe,-420
+2144,slip-on sandals,No,560,140,Orange,Orange,Active,Shoe,-420
+2145,slip-on sandals,No,560,140,Purple,Purple,Active,Shoe,-420
+2146,slip-on school shoes,No,350,87,Red,White,Simple,Shoe,-263
+2147,slip-on school shoes,No,350,87,Blue,White,Simple,Shoe,-263
+2148,slip-on school shoes,No,350,87,Green,White,Simple,Shoe,-263
+2149,slip-on school shoes,No,350,87,Yellow,White,Simple,Shoe,-263
+2150,slip-on school shoes,No,350,87,Pink,White,Simple,Shoe,-263
+2151,slippers,No,350,87,Gray,Gray,Simple,Shoe,-263
+2152,slippers,No,350,87,Black,Black,Simple,Shoe,-263
+2153,slippers,No,350,87,White,White,Simple,Shoe,-263
+2154,slippers,No,350,87,Pink,Pink,Simple,Shoe,-263
+2155,slippers,No,350,87,Green,Green,Simple,Shoe,-263
+2156,slippers,No,350,87,Light blue,Light blue,Simple,Shoe,-263
+2157,slippers,No,350,87,Red,Red,Simple,Shoe,-263
+2158,slippers,No,350,87,Yellow,Yellow,Simple,Shoe,-263
+2159,space boots,No,4300,1075,White,White,Active,Shoe,-3225
+2160,sporty sandals,No,1300,325,Red,Black,Active,Shoe,-975
+2161,sporty sandals,No,1300,325,Green,Black,Active,Shoe,-975
+2162,sporty sandals,No,1300,325,Blue,Black,Active,Shoe,-975
+2163,sporty sandals,No,1300,325,Purple,Black,Active,Shoe,-975
+2164,sporty sandals,No,1300,325,Pink,Black,Active,Shoe,-975
+2165,sporty sandals,No,1300,325,Beige,Black,Active,Shoe,-975
+2166,sporty sandals,No,1300,325,Light blue,Black,Active,Shoe,-975
+2167,steel-toed boots,No,2640,660,Brown,Brown,Cool,Shoe,-1980
+2168,steel-toed boots,No,2640,660,Beige,Brown,Cool,Shoe,-1980
+2169,steel-toed boots,No,2640,660,Green,Brown,Cool,Shoe,-1980
+2170,steel-toed boots,No,2640,660,Black,Gray,Cool,Shoe,-1980
+2171,steel-toed boots,No,2640,660,Red,Brown,Cool,Shoe,-1980
+2172,steel-toed boots,No,2640,660,Gray,Brown,Cool,Shoe,-1980
+2173,stone-egg shoes,Yes,0,800,Orange,Brown,Active,Shoe,800
+2174,strappy heels,No,1560,390,Red,Red,Gorgeous,Shoe,-1170
+2175,strappy heels,No,1560,390,Blue,Blue,Gorgeous,Shoe,-1170
+2176,strappy heels,No,1560,390,Orange,Orange,Gorgeous,Shoe,-1170
+2177,strappy heels,No,1560,390,Gray,Gray,Gorgeous,Shoe,-1170
+2178,strappy heels,No,1560,390,Black,Black,Gorgeous,Shoe,-1170
+2179,strappy heels,No,1560,390,Pink,Pink,Gorgeous,Shoe,-1170
+2180,strappy heels,No,1560,390,Green,Green,Gorgeous,Shoe,-1170
+2181,strappy heels,No,1560,390,Purple,Purple,Gorgeous,Shoe,-1170
+2182,traditional flower shoes,No,1800,450,Red,Blue,Elegant,Shoe,-1350
+2183,traditional flower shoes,No,1800,450,Pink,White,Elegant,Shoe,-1350
+2184,traditional flower shoes,No,1800,450,Blue,Brown,Elegant,Shoe,-1350
+2185,traditional flower shoes,No,1800,450,Yellow,Brown,Elegant,Shoe,-1350
+2186,traditional flower shoes,No,1800,450,Yellow,Red,Elegant,Shoe,-1350
+2187,trekking shoes,No,1500,375,Brown,Red,Active,Shoe,-1125
+2188,trekking shoes,No,1500,375,Black,Green,Active,Shoe,-1125
+2189,trekking shoes,No,1500,375,Black,Blue,Active,Shoe,-1125
+2190,trekking shoes,No,1500,375,Light blue,Purple,Active,Shoe,-1125
+2191,trekking shoes,No,1500,375,Yellow,White,Active,Shoe,-1125
+2192,trekking shoes,No,1500,375,Purple,Pink,Active,Shoe,-1125
+2193,trekking shoes,No,1500,375,White,Green,Active,Shoe,-1125
+2194,trekking shoes,No,1500,375,Brown,Beige,Active,Shoe,-1125
+2195,velour boots,No,1920,480,Red,Black,Elegant,Shoe,-1440
+2196,velour boots,No,1920,480,Gray,Black,Elegant,Shoe,-1440
+2197,velour boots,No,1920,480,Brown,Black,Elegant,Shoe,-1440
+2198,velour boots,No,1920,480,Blue,Black,Elegant,Shoe,-1440
+2199,velour boots,No,1920,480,Yellow,Black,Elegant,Shoe,-1440
+2200,vinyl round-toed pumps,No,1500,375,Beige,Beige,Simple,Shoe,-1125
+2201,vinyl round-toed pumps,No,1500,375,Light blue,Light blue,Simple,Shoe,-1125
+2202,vinyl round-toed pumps,No,1500,375,Brown,Brown,Simple,Shoe,-1125
+2203,vinyl round-toed pumps,No,1500,375,Pink,Pink,Simple,Shoe,-1125
+2204,vinyl round-toed pumps,No,1500,375,White,White,Simple,Shoe,-1125
+2205,vinyl round-toed pumps,No,1500,375,Black,Black,Simple,Shoe,-1125
+2206,visual-punk boots,No,2200,550,Black,Black,Cool,Shoe,-1650
+2207,walking shoes,No,560,140,Pink,Beige,Simple,Shoe,-420
+2208,walking shoes,No,560,140,Beige,Beige,Simple,Shoe,-420
+2209,walking shoes,No,560,140,Red,Beige,Simple,Shoe,-420
+2210,water sandals,No,1040,260,Pink,Pink,Cute,Shoe,-780
+2211,water sandals,No,1040,260,Blue,Blue,Cute,Shoe,-780
+2212,water sandals,No,1040,260,Red,Red,Cute,Shoe,-780
+2213,water sandals,No,1040,260,Light blue,Light blue,Cute,Shoe,-780
+2214,water sandals,No,1040,260,Orange,Orange,Cute,Shoe,-780
+2215,water sandals,No,1040,260,Purple,Purple,Cute,Shoe,-780
+2216,water sandals,No,1040,260,Green,Green,Cute,Shoe,-780
+2217,water sandals,No,1040,260,Yellow,Yellow,Cute,Shoe,-780
+2218,water shoes,No,900,225,Pink,Black,Active,Shoe,-675
+2219,water shoes,No,900,225,Light blue,Black,Active,Shoe,-675
+2220,water shoes,No,900,225,Orange,Black,Active,Shoe,-675
+2221,water shoes,No,900,225,Green,Black,Active,Shoe,-675
+2222,water shoes,No,900,225,Blue,Black,Active,Shoe,-675
+2223,water shoes,No,900,225,Yellow,Black,Active,Shoe,-675
+2224,water shoes,No,900,225,Red,Black,Active,Shoe,-675
+2225,water shoes,No,900,225,Gray,Black,Active,Shoe,-675
+2226,water-egg shoes,Yes,0,800,Light blue,Red,Active,Shoe,800
+2227,wedding pumps,No,3000,750,White,White,Elegant,Shoe,-2250
+2228,wedding shoes,No,3000,750,White,White,Elegant,Shoe,-2250
+2229,wingtip shoes,No,900,225,Black,White,Elegant,Shoe,-675
+2230,wingtip shoes,No,900,225,Brown,White,Elegant,Shoe,-675
+2231,wingtip shoes,No,900,225,Gray,White,Elegant,Shoe,-675
+2232,wingtip shoes,No,900,225,Green,Green,Elegant,Shoe,-675
+2233,wingtip shoes,No,900,225,Gray,Gray,Elegant,Shoe,-675
+2234,wingtip shoes,No,900,225,Red,Red,Elegant,Shoe,-675
+2235,wingtip shoes,No,900,225,Black,Black,Elegant,Shoe,-675
+2236,winklepickers,No,910,227,Red,Black,Cool,Shoe,-683
+2237,winklepickers,No,910,227,White,Black,Cool,Shoe,-683
+2238,winklepickers,No,910,227,Black,Black,Cool,Shoe,-683
+2239,winklepickers,No,910,227,Blue,Black,Cool,Shoe,-683
+2240,wood-egg shoes,Yes,0,800,Purple,Beige,Active,Shoe,800
+2241,wooden clogs,No,1300,325,Yellow,Red,Elegant,Shoe,-975
+2242,wooden clogs,No,1300,325,Blue,Pink,Elegant,Shoe,-975
+2243,wooden clogs,No,1300,325,Red,Yellow,Elegant,Shoe,-975
+2244,wooden clogs,No,1300,325,Green,Red,Elegant,Shoe,-975
+2245,wooden clogs,No,1300,325,Brown,Orange,Elegant,Shoe,-975
+2246,work boots,No,1920,480,Red,Black,Cool,Shoe,-1440
+2247,work boots,No,1920,480,Purple,Black,Cool,Shoe,-1440
+2248,work boots,No,1920,480,Pink,Black,Cool,Shoe,-1440
+2249,work boots,No,1920,480,Yellow,Black,Cool,Shoe,-1440
+2250,work boots,No,1920,480,White,Black,Cool,Shoe,-1440
+2251,work boots,No,1920,480,Blue,Black,Cool,Shoe,-1440
+2252,work boots,No,1920,480,Green,Black,Cool,Shoe,-1440
+2253,work boots,No,1920,480,Gray,Black,Cool,Shoe,-1440
+2254,wrestling shoes,No,1080,270,Red,White,Active,Shoe,-810
+2255,wrestling shoes,No,1080,270,Blue,White,Active,Shoe,-810
+2256,wrestling shoes,No,1080,270,Green,White,Active,Shoe,-810
+2257,wrestling shoes,No,1080,270,Pink,White,Active,Shoe,-810
+2258,wrestling shoes,No,1080,270,Black,White,Active,Shoe,-810
+2259,wrestling shoes,No,1080,270,Yellow,White,Active,Shoe,-810
+2260,zap boots,No,2640,660,White,Red,Active,Shoe,-1980
+2261,zori,No,4300,1075,Red,Black,Elegant,Shoe,-3225
+2262,zori,No,4300,1075,Yellow,Yellow,Elegant,Shoe,-3225
+2263,zori,No,4300,1075,Pink,Pink,Elegant,Shoe,-3225
+2264,zori,No,4300,1075,Pink,Beige,Elegant,Shoe,-3225
+2265,zori,No,4300,1075,Green,Green,Elegant,Shoe,-3225
+2266,zori,No,4300,1075,Black,White,Elegant,Shoe,-3225
+2267,zori,No,4300,1075,White,Light blue,Elegant,Shoe,-3225
+2268,zori,No,4300,1075,Yellow,Red,Elegant,Shoe,-3225
