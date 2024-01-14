@@ -1,0 +1,4 @@
+# LES FICHIERS QUI SERONT IGNORÉS PAR GIT
+
+# les fichiers générés par python
+*.pyc

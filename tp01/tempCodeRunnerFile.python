@@ -1,0 +1,18 @@
+def operationListe(listeA, listeB):
+    # TODO: C_i  est égal à 3 * A_i 0 2 * B_i, le tout divisé par 6
+    # Si A et B ne sont pas de même taille, retourner None
+    listeResultat = []
+    # TODO: Ajouter code ici
+    if len(listeA) != len(listeB):
+        return None
+    else:
+        
+        for i in range(len(listeA)):
+            listeResultat.append((3 * listeA[i] + 2 * listeB[i])/6) 
+
+    return listeResultat 
+
+def main():
+    listeA = [1, 2, 3, 4]
+    listeB = [5, 5, 5, 5]
+    listeC = operationListe(listeA, listeB) # listeC = [2.1666, 2.666, 3.166, 7.333]
